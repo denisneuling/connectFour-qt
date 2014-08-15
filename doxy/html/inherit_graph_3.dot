@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="QWidget",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GameManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_manager.html",tooltip="Class that handles game states and instanciates renderer and board. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AIGameManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_a_i_game_manager.html",tooltip="ai specific gamemanager "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TCPGameManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_t_c_p_game_manager.html",tooltip="Gamemanager that handles Network game related tasks. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="GameOverScreen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_over_screen.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="GameResults",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_results.html",tooltip="show previous games "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SettingsWidget",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_settings_widget.html"];
+}

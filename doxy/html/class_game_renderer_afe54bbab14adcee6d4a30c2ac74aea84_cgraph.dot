@@ -1,0 +1,17 @@
+digraph "GameRenderer::paintGL"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GameRenderer::paintGL",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GameCoinRenderer::draw",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_coin_renderer.html#a2b1b51d93a38675ee1f30fc6cacbaccd",tooltip="renders the board "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Helper::GetCoinColor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_helper.html#a41d44186f3a08524419153f19aa9b5f2"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Helper::DrawCircle",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_helper.html#ae7ae04b5ed393589228994c9ce203cac"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="GameBoardRenderer::draw",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_board_renderer.html#a9daf708f14cd6accf1e2f4cc54bb7d56"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
