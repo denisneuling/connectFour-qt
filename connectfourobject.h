@@ -2,6 +2,7 @@
 #define CONNECTFOUROBJECT_H
 
 /*!
+ * \class ConnectFourObject
  * \brief base class for every connect four related class
  * \details base class for every connect four related class
  *

@@ -8,6 +8,7 @@ class GameResults;
 }
 
 /*!
+ * \class GameResults
  * \brief show previous games
  * \details class that shows previous games
  *

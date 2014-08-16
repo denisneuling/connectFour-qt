@@ -9,6 +9,7 @@ class GameOverScreen;
 }
 
 /*!
+ * \class GameOverScreen
  * \brief Class that handles game over screen
  * \details Class that handles game over screen
  *

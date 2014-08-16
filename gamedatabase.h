@@ -11,6 +11,7 @@
 #include "player.h"
 
 /*!
+ * \class GameDatabase
  * \brief singleton class that manages the game result database
  * \details singleton class that manages the game result database
  *

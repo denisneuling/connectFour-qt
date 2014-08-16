@@ -11,6 +11,7 @@
 #include "renderobject.h"
 
 /*!
+ * \class GameCoinRenderer
  * \brief Class that is responsible for rendering the coins added to the board
  * \details Class that is responsible for rendering the coins added to the board
  *

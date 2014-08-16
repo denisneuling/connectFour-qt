@@ -6,6 +6,7 @@
 #include "networkadapter.h"
 
 /*!
+ * \class GameClient
  * \brief Class that is responsible for opening a tcp socket connection to the host
  * \details Class handles a tcp socket connection to the host
  *

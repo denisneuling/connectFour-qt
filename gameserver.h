@@ -8,6 +8,7 @@
 #include "networkadapter.h"
 
 /*!
+ * \class GameServer
  * \brief Class that handles server client connection
  * \details Class that handles server client connection
  *

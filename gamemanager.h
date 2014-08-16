@@ -12,6 +12,7 @@
 #define DELTA_TIME (1000 / 60)
 
 /*!
+ * \class GameManager
  * \brief Class that handles game states and instanciates renderer and board
  * \details Class that handles game states and instanciates renderer and board
  *

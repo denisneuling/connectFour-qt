@@ -8,6 +8,7 @@
 #define PI 3.141592653
 
 /*!
+ * \class Helper
  * \brief Helper class for Connect Four
  * \details Helper class for Connect Four
  *

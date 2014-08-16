@@ -13,6 +13,7 @@ class MainWindow;
 }
 
 /*!
+ * \class MainWindow
  * \brief main window class
  * \details application's main window
  *

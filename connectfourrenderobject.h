@@ -6,6 +6,7 @@
 #include "renderobject.h"
 
 /*!
+ * \class ConnectFourRenderObject
  * \brief base class for each renderable connect four object
  * \details base class for each renderable connect four object
  *

@@ -5,6 +5,7 @@
 #include "coin.h"
 
 /*!
+ * \class Player
  * \brief player data holder
  * \details class representing a player
  *

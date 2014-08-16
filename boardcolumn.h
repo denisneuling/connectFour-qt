@@ -5,6 +5,7 @@
 #include "coin.h"
 
 /*!
+ * \class BoardColumn
  * \brief column for the game board
  * \details column placed at the the game board
  *

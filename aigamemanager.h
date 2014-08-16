@@ -4,6 +4,7 @@
 #include "gamemanager.h"
 
 /*!
+ * \class AIGameManager
  * \brief ai specific gamemanager
  * \details AI specific gamemanger that handles the ai players turn
  *

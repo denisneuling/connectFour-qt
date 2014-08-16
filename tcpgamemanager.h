@@ -5,6 +5,7 @@
 #include "networkadapter.h"
 
 /*!
+ * \class TCPGameManager
  * \brief Gamemanager that handles Network game related tasks
  * \details Gamemanager that handles Network game related tasks
  *

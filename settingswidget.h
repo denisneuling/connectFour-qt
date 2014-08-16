@@ -9,6 +9,7 @@ class SettingsWidget;
 }
 
 /*!
+ * \class SettingsWidget
  * \brief widget for settings
  * \details widget for settings
  *

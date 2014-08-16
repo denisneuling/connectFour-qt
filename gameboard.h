@@ -14,6 +14,7 @@
 #include "player.h"
 
 /*!
+ * \class GameBoard
  * \brief game board class representing game board
  * \details game board splitted up into columns and rows handling coins
  *

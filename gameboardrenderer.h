@@ -10,6 +10,7 @@
 #include "helper.h"
 
 /*!
+ * \class GameBoardRenderer
  * \brief Class that is responsible for rendering the gameboard
  * \details renders the game board grid
  *

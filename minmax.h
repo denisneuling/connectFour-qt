@@ -12,6 +12,7 @@
 #define MAX_DEPTH 4
 
 /*!
+ * \class MinMax
  * \brief Negamax algorithm
  * \details Negamax algorithm
  *
