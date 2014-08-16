@@ -10,7 +10,13 @@
 #include "helper.h"
 #include "renderobject.h"
 
-//! Class that is responsible for rendering the coins added to the board
+/*!
+ * \brief Class that is responsible for rendering the coins added to the board
+ * \details Class that is responsible for rendering the coins added to the board
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameCoinRenderer : public ConnectFourRenderObject
 {
 public:

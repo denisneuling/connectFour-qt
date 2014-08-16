@@ -3,6 +3,13 @@
 
 #include "coin.h"
 
+/*!
+ * \brief column for the game board
+ * \details column placed at the the game board
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class BoardColumn
 {
 public:

@@ -11,7 +11,15 @@
 
 #define MAX_DEPTH 4
 
-//! Negamax algorithm
+/*!
+ * \brief Negamax algorithm
+ * \details Negamax algorithm
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ *
+ * \link http://en.wikipedia.org/wiki/Negamax
+ */
 class MinMax
 {
 public:

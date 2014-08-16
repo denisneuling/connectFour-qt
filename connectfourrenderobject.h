@@ -5,7 +5,13 @@
 #include "connectfourobject.h"
 #include "renderobject.h"
 
-//! base class for each renderable connect four object
+/*!
+ * \brief base class for each renderable connect four object
+ * \details base class for each renderable connect four object
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class ConnectFourRenderObject : public ConnectFourObject, public RenderObject
 {
 public:

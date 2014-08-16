@@ -3,7 +3,13 @@
 
 #include <QString>
 
-//! data holder between ui and game
+/*!
+ * \brief data holder between ui and game
+ * \details data holder between ui and game
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 typedef struct Settings
 {
     int width, height;

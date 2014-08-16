@@ -7,7 +7,13 @@ namespace Ui {
 class GameResults;
 }
 
-//! show previous games
+/*!
+ * \brief show previous games
+ * \details class that shows previous games
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameResults : public QWidget
 {
     Q_OBJECT

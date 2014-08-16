@@ -4,9 +4,17 @@
 #include <QWidget>
 
 namespace Ui {
+
 class GameOverScreen;
 }
 
+/*!
+ * \brief Class that handles game over screen
+ * \details Class that handles game over screen
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameOverScreen : public QWidget
 {
     Q_OBJECT

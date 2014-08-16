@@ -13,6 +13,13 @@
 #include "connectfourobject.h"
 #include "player.h"
 
+/*!
+ * \brief game board class representing game board
+ * \details game board splitted up into columns and rows handling coins
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameBoard : public QObject, public ConnectFourObject
 {
     Q_OBJECT

@@ -3,8 +3,13 @@
 
 #include "gamemanager.h"
 
-//! ai specific gamemanager
-/*! AI specific gamemanger that handles the ai players turn */
+/*!
+ * \brief ai specific gamemanager
+ * \details AI specific gamemanger that handles the ai players turn
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class AIGameManager : public GameManager
 {
     Q_OBJECT

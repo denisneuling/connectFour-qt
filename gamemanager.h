@@ -10,7 +10,14 @@
 #include "settings.h"
 
 #define DELTA_TIME (1000 / 60)
-//! Class that handles game states and instanciates renderer and board
+
+/*!
+ * \brief Class that handles game states and instanciates renderer and board
+ * \details Class that handles game states and instanciates renderer and board
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameManager : public QWidget
 {
     Q_OBJECT
