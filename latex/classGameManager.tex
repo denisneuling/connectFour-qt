@@ -1,0 +1,129 @@
+\hypertarget{classGameManager}{\section{\-Game\-Manager \-Class \-Reference}
+\label{classGameManager}\index{\-Game\-Manager@{\-Game\-Manager}}
+}
+
+
+\-Class that handles game states and instanciates renderer and board.  
+
+
+
+
+{\ttfamily \#include $<$gamemanager.\-h$>$}
+
+\-Inheritance diagram for \-Game\-Manager\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classGameManager}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Slots}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classGameManager_a55876082b15630acf8109b5f0a33e6bd}{void {\bfseries game\-End} ()}\label{classGameManager_a55876082b15630acf8109b5f0a33e6bd}
+
+\item 
+\hypertarget{classGameManager_a7ecc3a14cd9e92f50729b37d1364953f}{void \hyperlink{classGameManager_a7ecc3a14cd9e92f50729b37d1364953f}{update} ()}\label{classGameManager_a7ecc3a14cd9e92f50729b37d1364953f}
+
+\begin{DoxyCompactList}\small\item\em poll mouse position and update states \end{DoxyCompactList}\item 
+\hypertarget{classGameManager_ac15bf5701604781f66047dc8c94f70a7}{void \hyperlink{classGameManager_ac15bf5701604781f66047dc8c94f70a7}{mouse\-Press\-Event} (\-Q\-Mouse\-Event $\ast$event)}\label{classGameManager_ac15bf5701604781f66047dc8c94f70a7}
+
+\begin{DoxyCompactList}\small\item\em drop coins and check finish game \end{DoxyCompactList}\item 
+\hypertarget{classGameManager_a452f27d846213676394663c8d223983d}{void {\bfseries save\-Game} ()}\label{classGameManager_a452f27d846213676394663c8d223983d}
+
+\item 
+\hypertarget{classGameManager_ad7e262dd756247130c085ead21b34d87}{void \hyperlink{classGameManager_ad7e262dd756247130c085ead21b34d87}{load\-Game} (\-Q\-String game\-Board)}\label{classGameManager_ad7e262dd756247130c085ead21b34d87}
+
+\begin{DoxyCompactList}\small\item\em also handles start game \end{DoxyCompactList}\item 
+\hypertarget{classGameManager_af49538ffbacf3ed465fe23191f0a7378}{void {\bfseries switch\-Player} ()}\label{classGameManager_af49538ffbacf3ed465fe23191f0a7378}
+
+\item 
+\hypertarget{classGameManager_aef672bf56ae84eb10a65bf227e487717}{\hyperlink{classPlayer}{\-Player} {\bfseries get\-Current\-Active\-Player} ()}\label{classGameManager_aef672bf56ae84eb10a65bf227e487717}
+
+\item 
+\hypertarget{classGameManager_a875582122292a52ffcae786a46490f89}{\hyperlink{classPlayer}{\-Player} {\bfseries get\-Current\-Inactive\-Player} ()}\label{classGameManager_a875582122292a52ffcae786a46490f89}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Signals}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classGameManager_ae63cd6e5b6b2458d5260d421433aa43c}{void {\bfseries game\-Started} ()}\label{classGameManager_ae63cd6e5b6b2458d5260d421433aa43c}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classGameManager_a22f8d699d465b1246ed1ca95cb5e8126}{{\bfseries \-Game\-Manager} (\-Q\-Widget $\ast$parent=0)}\label{classGameManager_a22f8d699d465b1246ed1ca95cb5e8126}
+
+\item 
+\hypertarget{classGameManager_a4acbc34fa6c280d0f6d48ff867626ce2}{virtual void \hyperlink{classGameManager_a4acbc34fa6c280d0f6d48ff867626ce2}{start\-Game} (\hyperlink{structSettings}{\-Settings} settings)}\label{classGameManager_a4acbc34fa6c280d0f6d48ff867626ce2}
+
+\begin{DoxyCompactList}\small\item\em instanciates renderer and gameboard \end{DoxyCompactList}\item 
+\hypertarget{classGameManager_a6ec9d87c1a6366be0f5b2191b798a679}{virtual void \hyperlink{classGameManager_a6ec9d87c1a6366be0f5b2191b798a679}{set\-Starting\-Player} (\hyperlink{structSettings}{\-Settings} settings, \-Coin player=\-R\-E\-D)}\label{classGameManager_a6ec9d87c1a6366be0f5b2191b798a679}
+
+\begin{DoxyCompactList}\small\item\em used for diffent game managers to handle starting player \end{DoxyCompactList}\item 
+\hypertarget{classGameManager_afc363c6765b4fdf990f75bd5978a9dbb}{void {\bfseries finish\-Game} (\hyperlink{structGame}{\-Game} game)}\label{classGameManager_afc363c6765b4fdf990f75bd5978a9dbb}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Protected \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classGameManager_a4d65975808a9ddce05814b0708b11268}{void {\bfseries check\-And\-Handle\-Win} (int column)}\label{classGameManager_a4d65975808a9ddce05814b0708b11268}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Protected \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classGameManager_aee76ef2de914b2c0934c5b3264426edb}{\-Q\-H\-Box\-Layout $\ast$ {\bfseries m\-\_\-p\-Main\-Layout}}\label{classGameManager_aee76ef2de914b2c0934c5b3264426edb}
+
+\item 
+\hypertarget{classGameManager_af15f419d79f18cf1bfb846633fa60ea6}{\hyperlink{classGameRenderer}{\-Game\-Renderer} $\ast$ {\bfseries m\-\_\-p\-Renderer}}\label{classGameManager_af15f419d79f18cf1bfb846633fa60ea6}
+
+\item 
+\hypertarget{classGameManager_af8185baa9bd771d56187bfe21a35bcca}{\hyperlink{classGameBoard}{\-Game\-Board} $\ast$ {\bfseries m\-\_\-p\-Game\-Board}}\label{classGameManager_af8185baa9bd771d56187bfe21a35bcca}
+
+\item 
+\hypertarget{classGameManager_a8f611fd41149c74160bf1314d3c8ce09}{\hyperlink{classGameOverScreen}{\-Game\-Over\-Screen} $\ast$ {\bfseries m\-\_\-p\-Game\-Over\-Screen}}\label{classGameManager_a8f611fd41149c74160bf1314d3c8ce09}
+
+\item 
+\hypertarget{classGameManager_acc65f12646b0b5f041685066da3d5e7e}{\-Q\-Timer $\ast$ {\bfseries m\-\_\-p\-Update\-Timer}}\label{classGameManager_acc65f12646b0b5f041685066da3d5e7e}
+
+\item 
+\hypertarget{classGameManager_a333d215d519fe0789a64c369bdb7a4ee}{\hyperlink{structSettings}{\-Settings} {\bfseries m\-\_\-\-Settings}}\label{classGameManager_a333d215d519fe0789a64c369bdb7a4ee}
+
+\item 
+\hypertarget{classGameManager_a85d58e6dbc954f0441fb5fdb8c797564}{int {\bfseries m\-\_\-\-Current\-Column}}\label{classGameManager_a85d58e6dbc954f0441fb5fdb8c797564}
+
+\item 
+\hypertarget{classGameManager_a266242aba3c8f5a98b79bd48bf257a5d}{\hyperlink{classPlayer}{\-Player} {\bfseries m\-\_\-\-Current\-Player}}\label{classGameManager_a266242aba3c8f5a98b79bd48bf257a5d}
+
+\item 
+\hypertarget{classGameManager_a354706b4266f9720a284402a2c22b060}{\hyperlink{classPlayer}{\-Player} {\bfseries m\-\_\-\-Player1}}\label{classGameManager_a354706b4266f9720a284402a2c22b060}
+
+\item 
+\hypertarget{classGameManager_a53dc81fe5edc0284d9e15557494d5f17}{\hyperlink{classPlayer}{\-Player} {\bfseries m\-\_\-\-Player2}}\label{classGameManager_a53dc81fe5edc0284d9e15557494d5f17}
+
+\item 
+\hypertarget{classGameManager_aa352a1a6b760aefdc1c21065eb5e1c5b}{bool {\bfseries m\-\_\-\-Current\-Is\-Player1}}\label{classGameManager_aa352a1a6b760aefdc1c21065eb5e1c5b}
+
+\item 
+\hypertarget{classGameManager_a4357ddc5393953e39d5b217103e85f63}{bool {\bfseries m\-\_\-\-Finished}}\label{classGameManager_a4357ddc5393953e39d5b217103e85f63}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-Class that handles game states and instanciates renderer and board. 
+
+\-Class that handles game states and instanciates renderer and board
+
+\begin{DoxyAuthor}{\-Author}
+\-Roland \-Luckenthuber 
+
+\-Denis \-Neuling 
+\end{DoxyAuthor}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+gamemanager.\-h\item 
+gamemanager.\-cpp\end{DoxyCompactItemize}

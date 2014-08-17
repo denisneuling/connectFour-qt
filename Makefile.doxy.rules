@@ -1,0 +1,4 @@
+# Doxygen statements
+doc:
+    doxygen Doxyfile
+
