@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_client.html#aac63bd682b0cfde980b042bf8145e883" title="called when connected to the server" alt="" coords="224,5,381,35"/>
+<area shape="rect" id="node7" href="$class_game_client.html#a5457bdb6b9a17067bbb67a2498ee395d" title="GameClient::readReady" alt="" coords="221,59,384,88"/>
+<area shape="rect" id="node5" href="$class_network_adapter.html#a2da2230a1cdf125105537d7a5b143bd0" title="NetworkAdapter::connectionEstablished" alt="" coords="433,5,687,35"/>
+<area shape="rect" id="node9" href="$class_network_adapter.html#ac2e6cce84f774b166dfda66e98ee655e" title="NetworkAdapter::dataReceived" alt="" coords="459,59,661,88"/>
+</map>

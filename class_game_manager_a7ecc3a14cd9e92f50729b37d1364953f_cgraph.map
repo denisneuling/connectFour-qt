@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_renderer.html#a929f075483f98a51f71051777d8e6f8f" title="GameRenderer::getGameBoardRenderer" alt="" coords="275,5,533,35"/>
+<area shape="rect" id="node5" href="$class_game_board_renderer.html#a816b3c402bf466641681ed67cefe1041" title="GameBoardRenderer::calculateAndSetColumnFromMousePoint" alt="" coords="209,59,599,88"/>
+</map>

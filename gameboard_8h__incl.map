@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$coin_8h.html" title="coin.h" alt="" coords="484,315,540,344"/>
+<area shape="rect" id="node13" href="$game_8h.html" title="game.h" alt="" coords="632,160,696,189"/>
+<area shape="rect" id="node17" href="$player_8h.html" title="player.h" alt="" coords="691,237,757,267"/>
+<area shape="rect" id="node21" href="$helper_8h.html" title="helper.h" alt="" coords="520,83,587,112"/>
+<area shape="rect" id="node27" href="$boardcolumn_8h.html" title="boardcolumn.h" alt="" coords="325,83,432,112"/>
+<area shape="rect" id="node31" href="$connectfourobject_8h.html" title="connectfourobject.h" alt="" coords="771,83,907,112"/>
+</map>

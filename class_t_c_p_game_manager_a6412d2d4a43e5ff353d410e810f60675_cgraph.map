@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_network_adapter.html#a37549ba9c99061a8c5407299b380139d" title="NetworkAdapter::IsServer" alt="" coords="329,5,503,35"/>
+<area shape="rect" id="node5" href="$class_network_adapter.html#a304921c7d4e599031608a9a9217c900f" title="NetworkAdapter::send" alt="" coords="340,59,492,88"/>
+<area shape="rect" id="node7" href="$class_game_renderer.html#a82019f8ae05f9ecfd4c2aec279ed9dec" title="GameRenderer::initialize" alt="" coords="333,112,499,141"/>
+<area shape="rect" id="node11" href="$class_game_renderer.html#a929f075483f98a51f71051777d8e6f8f" title="GameRenderer::getGameBoardRenderer" alt="" coords="287,165,545,195"/>
+<area shape="rect" id="node13" href="$class_game_board_renderer.html#a5678cf7626743de3844406465ca2bf6f" title="GameBoardRenderer::setCurrentActivePlayer" alt="" coords="273,219,559,248"/>
+<area shape="rect" id="node15" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActivePlayer" alt="" coords="291,272,541,301"/>
+<area shape="rect" id="node17" href="$class_game_manager.html#ae63cd6e5b6b2458d5260d421433aa43c" title="GameManager::gameStarted" alt="" coords="321,325,511,355"/>
+<area shape="rect" id="node19" href="$class_helper.html#a13ac9ee4039795a9b27bc38a81b9f870" title="Helper::boardUpdate" alt="" coords="345,379,487,408"/>
+<area shape="rect" id="node21" href="$class_game_board.html#abfd027ca1bf36698290855faff44d1a3" title="GameBoard::deserialize" alt="" coords="336,432,496,461"/>
+<area shape="rect" id="node23" href="$class_game_renderer.html#a5c90477c42380849ef0be29dbe548396" title="GameRenderer::getGameCoinRenderer" alt="" coords="291,485,541,515"/>
+<area shape="rect" id="node25" href="$class_game_coin_renderer.html#a20a3e2499f4f1656a3e1012ef34e7e89" title="GameCoinRenderer::setGameBoard" alt="" coords="300,539,532,568"/>
+<area shape="rect" id="node27" href="$class_game_board.html#ae90c2043ae979dc35dea08113bac278a" title="GameBoard::getCurrentBoard" alt="" coords="319,592,513,621"/>
+<area shape="rect" id="node29" href="$class_game_board.html#a72290b30d47b27d1a929150cd9d16305" title="GameBoard::checkGameConditions" alt="" coords="301,645,531,675"/>
+<area shape="rect" id="node39" href="$class_game_manager.html#afc363c6765b4fdf990f75bd5978a9dbb" title="GameManager::finishGame" alt="" coords="325,803,507,832"/>
+<area shape="rect" id="node9" href="$class_game_board_renderer.html#a5b45052cf71976461b07721195dd5dbe" title="GameBoardRenderer::init" alt="" coords="637,112,805,141"/>
+<area shape="rect" id="node31" href="$class_game_board.html#a9d39bb64647af701a265251624287807" title="GameBoard::checkDrawConditions" alt="" coords="608,592,835,621"/>
+<area shape="rect" id="node33" href="$class_game_board.html#a2ac14f3ff1d653e086136792fe0933d6" title="GameBoard::checkWinConditions" alt="" coords="612,645,831,675"/>
+<area shape="rect" id="node35" href="$class_game_board.html#a15b19b2ec1e4c63b47e113aba42d3ae3" title="GameBoard::getCoin" alt="" coords="900,619,1044,648"/>
+<area shape="rect" id="node37" href="$class_game_board.html#ae43c300f4bc9df8a8d65231f96d335dd" title="GameBoard::isCoinValidAt" alt="" coords="883,672,1061,701"/>
+<area shape="rect" id="node41" href="$class_helper.html#a665cf4e080d1e25199e5545df0cc253c" title="Helper::ResultToString" alt="" coords="644,699,799,728"/>
+<area shape="rect" id="node43" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="912,804,1032,833"/>
+<area shape="rect" id="node45" href="$class_game_over_screen.html#a9767d775fcb476810e1d3690e631aa62" title="GameOverScreen::setWinner" alt="" coords="625,803,817,832"/>
+<area shape="rect" id="node47" href="$class_game_manager.html#a55876082b15630acf8109b5f0a33e6bd" title="GameManager::gameEnd" alt="" coords="636,856,807,885"/>
+<area shape="rect" id="node49" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="627,909,816,939"/>
+<area shape="rect" id="node51" href="$class_game_database.html#aa2e298187a235ff09b53444b65ef806c" title="GameDatabase::addGame" alt="" coords="633,963,809,992"/>
+<area shape="rect" id="node54" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="916,963,1028,992"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_board_renderer.html#a9daf708f14cd6accf1e2f4cc54bb7d56" title="GameBoardRenderer::draw" alt="" coords="188,5,367,35"/>
+<area shape="rect" id="node7" href="$class_game_coin_renderer.html#a2b1b51d93a38675ee1f30fc6cacbaccd" title="GameCoinRenderer::draw" alt="" coords="191,59,364,88"/>
+<area shape="rect" id="node5" href="$class_game_renderer.html#afe54bbab14adcee6d4a30c2ac74aea84" title="GameRenderer::paintGL" alt="" coords="416,32,579,61"/>
+</map>

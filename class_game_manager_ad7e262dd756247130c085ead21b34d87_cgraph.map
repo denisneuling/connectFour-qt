@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_board.html#abfd027ca1bf36698290855faff44d1a3" title="GameBoard::deserialize" alt="" coords="275,5,435,35"/>
+<area shape="rect" id="node5" href="$class_game_renderer.html#a5c90477c42380849ef0be29dbe548396" title="GameRenderer::getGameCoinRenderer" alt="" coords="229,59,480,88"/>
+<area shape="rect" id="node7" href="$class_game_coin_renderer.html#a20a3e2499f4f1656a3e1012ef34e7e89" title="GameCoinRenderer::setGameBoard" alt="" coords="239,112,471,141"/>
+<area shape="rect" id="node9" href="$class_game_board.html#ae90c2043ae979dc35dea08113bac278a" title="GameBoard::getCurrentBoard" alt="" coords="257,165,452,195"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_game_manager.html" title="Class that handles game states and instanciates renderer and board." alt="" coords="219,216,325,245"/>
+<area shape="rect" id="node4" href="$struct_settings.html" title="data holder between ui and game" alt="" coords="5,85,75,115"/>
+<area shape="rect" id="node6" href="$class_game_board.html" title="game board class representing game board" alt="" coords="99,85,189,115"/>
+<area shape="rect" id="node8" href="$class_connect_four_object.html" title="base class for every connect four related class" alt="" coords="77,5,211,35"/>
+<area shape="rect" id="node10" href="$class_game_renderer.html" title="Handles OpenGL window inside main window;." alt="" coords="217,85,327,115"/>
+<area shape="rect" id="node12" href="$class_player.html" title="player data holder" alt="" coords="356,85,415,115"/>
+<area shape="rect" id="node14" href="$class_game_over_screen.html" title="Class that handles game over screen." alt="" coords="452,85,577,115"/>
+</map>

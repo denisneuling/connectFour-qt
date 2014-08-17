@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gameclient_8h.html" title="gameclient.h" alt="" coords="173,83,269,112"/>
+<area shape="rect" id="node11" href="$gameserver_8h.html" title="gameserver.h" alt="" coords="391,83,492,112"/>
+<area shape="rect" id="node18" href="$tcpgamemanager_8h.html" title="tcpgamemanager.h" alt="" coords="516,83,649,112"/>
+<area shape="rect" id="node23" href="$networkadapter_8cpp.html" title="networkadapter.cpp" alt="" coords="673,83,809,112"/>
+<area shape="rect" id="node5" href="$gameclient_8cpp.html" title="gameclient.cpp" alt="" coords="5,160,115,189"/>
+<area shape="rect" id="node7" href="$gamemanager_8cpp.html" title="gamemanager.cpp" alt="" coords="139,160,267,189"/>
+<area shape="rect" id="node9" href="$tcpgamemanager_8cpp.html" title="tcpgamemanager.cpp" alt="" coords="291,160,437,189"/>
+<area shape="rect" id="node13" href="$gameserver_8cpp.html" title="gameserver.cpp" alt="" coords="461,160,576,189"/>
+<area shape="rect" id="node15" href="$settingswidget_8cpp.html" title="settingswidget.cpp" alt="" coords="600,160,731,189"/>
+<area shape="rect" id="node20" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="755,160,872,189"/>
+</map>

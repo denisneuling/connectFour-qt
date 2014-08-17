@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_game_board_renderer.html" title="Class that is responsible for rendering the gameboard." alt="" coords="5,160,149,189"/>
+<area shape="rect" id="node9" href="$class_game_coin_renderer.html" title="Class that is responsible for rendering the coins added to the board." alt="" coords="173,160,309,189"/>
+<area shape="rect" id="node2" href="$class_connect_four_object.html" title="base class for every connect four related class" alt="" coords="21,5,155,35"/>
+<area shape="rect" id="node4" href="$class_render_object.html" title="iface for objects which are able to be rendered" alt="" coords="179,5,280,35"/>
+</map>

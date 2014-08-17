@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_manager.html#ad7e262dd756247130c085ead21b34d87" title="GameManager::loadGame" alt="" coords="239,5,412,35"/>
+<area shape="rect" id="node5" href="$class_t_c_p_game_manager.html#a6412d2d4a43e5ff353d410e810f60675" title="TCPGameManager::receivedData" alt="" coords="216,59,435,88"/>
+<area shape="rect" id="node7" href="$class_t_c_p_game_manager.html#a7d4415253458e80a05314f91a0879fd0" title="TCPGameManager::startGame" alt="" coords="483,59,685,88"/>
+</map>

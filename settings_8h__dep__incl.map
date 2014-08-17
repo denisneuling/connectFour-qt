@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gamemanager_8h.html" title="gamemanager.h" alt="" coords="417,83,532,112"/>
+<area shape="rect" id="node28" href="$settingswidget_8h.html" title="settingswidget.h" alt="" coords="559,83,676,112"/>
+<area shape="rect" id="node5" href="$aigamemanager_8h.html" title="aigamemanager.h" alt="" coords="259,160,384,189"/>
+<area shape="rect" id="node11" href="$minmax_8h.html" title="minmax.h" alt="" coords="157,160,235,189"/>
+<area shape="rect" id="node14" href="$gamemanager_8cpp.html" title="gamemanager.cpp" alt="" coords="5,160,133,189"/>
+<area shape="rect" id="node16" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="565,160,669,189"/>
+<area shape="rect" id="node21" href="$tcpgamemanager_8h.html" title="tcpgamemanager.h" alt="" coords="408,160,541,189"/>
+<area shape="rect" id="node26" href="$settingswidget_8cpp.html" title="settingswidget.cpp" alt="" coords="693,160,824,189"/>
+<area shape="rect" id="node7" href="$aigamemanager_8cpp.html" title="aigamemanager.cpp" alt="" coords="127,237,265,267"/>
+<area shape="rect" id="node9" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="460,237,577,267"/>
+<area shape="rect" id="node18" href="$main_8cpp.html" title="main.cpp" alt="" coords="601,237,676,267"/>
+<area shape="rect" id="node24" href="$tcpgamemanager_8cpp.html" title="tcpgamemanager.cpp" alt="" coords="289,237,436,267"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_renderer.html#a929f075483f98a51f71051777d8e6f8f" title="GameRenderer::getGameBoardRenderer" alt="" coords="284,5,543,35"/>
+<area shape="rect" id="node5" href="$class_game_board_renderer.html#a5678cf7626743de3844406465ca2bf6f" title="GameBoardRenderer::setCurrentActivePlayer" alt="" coords="271,59,556,88"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActivePlayer" alt="" coords="288,112,539,141"/>
+</map>

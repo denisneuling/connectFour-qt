@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_board.html#a706ae720beb9de8147298676dc75283c" title="GameBoard::addCoin" alt="" coords="323,8,469,37"/>
+<area shape="rect" id="node5" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActivePlayer" alt="" coords="581,5,832,35"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#a4d65975808a9ddce05814b0708b11268" title="GameManager::checkAndHandleWin" alt="" coords="277,192,515,221"/>
+<area shape="rect" id="node9" href="$class_game_board.html#a72290b30d47b27d1a929150cd9d16305" title="GameBoard::checkGameConditions" alt="" coords="592,59,821,88"/>
+<area shape="rect" id="node19" href="$class_game_renderer.html#a5c90477c42380849ef0be29dbe548396" title="GameRenderer::getGameCoinRenderer" alt="" coords="581,112,832,141"/>
+<area shape="rect" id="node21" href="$class_game_coin_renderer.html#a88ecbeec05a81381ee676463fe2aac53" title="GameCoinRenderer::updateGameCoins" alt="" coords="580,165,833,195"/>
+<area shape="rect" id="node24" href="$class_game_manager.html#af49538ffbacf3ed465fe23191f0a7378" title="GameManager::switchPlayer" alt="" coords="612,219,801,248"/>
+<area shape="rect" id="node26" href="$class_game_manager.html#a875582122292a52ffcae786a46490f89" title="GameManager::getCurrentInactivePlayer" alt="" coords="577,272,836,301"/>
+<area shape="rect" id="node28" href="$class_game_manager.html#afc363c6765b4fdf990f75bd5978a9dbb" title="GameManager::finishGame" alt="" coords="616,325,797,355"/>
+<area shape="rect" id="node45" href="$class_game_renderer.html#a929f075483f98a51f71051777d8e6f8f" title="GameRenderer::getGameBoardRenderer" alt="" coords="577,379,836,408"/>
+<area shape="rect" id="node47" href="$class_game_board_renderer.html#a5678cf7626743de3844406465ca2bf6f" title="GameBoardRenderer::setCurrentActivePlayer" alt="" coords="564,432,849,461"/>
+<area shape="rect" id="node11" href="$class_game_board.html#a9d39bb64647af701a265251624287807" title="GameBoard::checkDrawConditions" alt="" coords="899,32,1125,61"/>
+<area shape="rect" id="node13" href="$class_game_board.html#a2ac14f3ff1d653e086136792fe0933d6" title="GameBoard::checkWinConditions" alt="" coords="903,85,1121,115"/>
+<area shape="rect" id="node15" href="$class_game_board.html#a15b19b2ec1e4c63b47e113aba42d3ae3" title="GameBoard::getCoin" alt="" coords="1191,59,1335,88"/>
+<area shape="rect" id="node17" href="$class_game_board.html#ae43c300f4bc9df8a8d65231f96d335dd" title="GameBoard::isCoinValidAt" alt="" coords="1173,112,1352,141"/>
+<area shape="rect" id="node30" href="$class_helper.html#a665cf4e080d1e25199e5545df0cc253c" title="Helper::ResultToString" alt="" coords="935,195,1089,224"/>
+<area shape="rect" id="node32" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="1203,325,1323,355"/>
+<area shape="rect" id="node34" href="$class_game_over_screen.html#a9767d775fcb476810e1d3690e631aa62" title="GameOverScreen::setWinner" alt="" coords="916,299,1108,328"/>
+<area shape="rect" id="node36" href="$class_game_manager.html#a55876082b15630acf8109b5f0a33e6bd" title="GameManager::gameEnd" alt="" coords="927,352,1097,381"/>
+<area shape="rect" id="node38" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="917,405,1107,435"/>
+<area shape="rect" id="node40" href="$class_game_database.html#aa2e298187a235ff09b53444b65ef806c" title="GameDatabase::addGame" alt="" coords="924,459,1100,488"/>
+<area shape="rect" id="node43" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="1207,459,1319,488"/>
+</map>

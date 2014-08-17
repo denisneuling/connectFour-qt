@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActivePlayer" alt="" coords="232,5,483,35"/>
+<area shape="rect" id="node5" href="$class_game_board.html#ad533f495fa4f39c15e1164a1a5bb702e" title="GameBoard::serialize" alt="" coords="284,59,431,88"/>
+<area shape="rect" id="node7" href="$class_game_board.html#a15b19b2ec1e4c63b47e113aba42d3ae3" title="GameBoard::getCoin" alt="" coords="531,59,675,88"/>
+</map>

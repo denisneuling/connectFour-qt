@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gamemanager_8h.html" title="gamemanager.h" alt="" coords="161,83,276,112"/>
+<area shape="rect" id="node7" href="$game_8h.html" title="game.h" alt="" coords="244,469,308,499"/>
+<area shape="rect" id="node16" href="$gameboard_8h.html" title="gameboard.h" alt="" coords="537,315,633,344"/>
+<area shape="rect" id="node41" href="$gamerenderer_8h.html" title="gamerenderer.h" alt="" coords="872,160,984,189"/>
+<area shape="rect" id="node71" href="$gameoverscreen_8h.html" title="gameoverscreen.h" alt="" coords="28,160,156,189"/>
+<area shape="rect" id="node74" href="$settings_8h.html" title="settings.h" alt="" coords="157,547,235,576"/>
+<area shape="rect" id="node11" href="$player_8h.html" title="player.h" alt="" coords="312,547,379,576"/>
+<area shape="rect" id="node14" href="$coin_8h.html" title="coin.h" alt="" coords="672,624,728,653"/>
+<area shape="rect" id="node28" href="$helper_8h.html" title="helper.h" alt="" coords="935,392,1001,421"/>
+<area shape="rect" id="node34" href="$boardcolumn_8h.html" title="boardcolumn.h" alt="" coords="577,392,684,421"/>
+<area shape="rect" id="node38" href="$connectfourobject_8h.html" title="connectfourobject.h" alt="" coords="527,469,663,499"/>
+<area shape="rect" id="node46" href="$gameboardrenderer_8h.html" title="gameboardrenderer.h" alt="" coords="988,237,1132,267"/>
+<area shape="rect" id="node60" href="$gamecoinrenderer_8h.html" title="gamecoinrenderer.h" alt="" coords="836,315,972,344"/>
+<area shape="rect" id="node52" href="$connectfourrenderobject_8h.html" title="connectfourrenderobject.h" alt="" coords="1025,392,1196,421"/>
+<area shape="rect" id="node56" href="$renderobject_8h.html" title="renderobject.h" alt="" coords="1120,469,1224,499"/>
+<area shape="rect" id="node64" href="$animation_8h.html" title="animation.h" alt="" coords="1076,547,1164,576"/>
+</map>

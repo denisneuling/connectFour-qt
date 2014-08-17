@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_network_adapter.html" title="NetworkAdapter interface." alt="" coords="7,32,121,61"/>
+<area shape="rect" id="node3" href="$class_game_client.html" title="Class that is responsible for opening a tcp socket connection to the host." alt="" coords="173,5,264,35"/>
+<area shape="rect" id="node5" href="$class_game_server.html" title="Class that handles server client connection." alt="" coords="172,59,265,88"/>
+</map>

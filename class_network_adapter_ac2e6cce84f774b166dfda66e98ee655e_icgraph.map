@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_client.html#a5457bdb6b9a17067bbb67a2498ee395d" title="GameClient::readReady" alt="" coords="261,5,424,35"/>
+<area shape="rect" id="node7" href="$class_game_server.html#ae04551b358465ca81a34073abb7d6380" title="GameServer::readReady" alt="" coords="260,59,425,88"/>
+<area shape="rect" id="node5" href="$class_game_client.html#a6c6faf6d8e0524f9b75041b3eaeb718d" title="GameClient::GameClient" alt="" coords="488,5,656,35"/>
+<area shape="rect" id="node9" href="$class_game_server.html#ae41954b45bd6e4f7cff0b9c9034206cc" title="GameServer::newConnection" alt="" coords="476,59,668,88"/>
+<area shape="rect" id="node11" href="$class_game_server.html#a65f06eb193e2ce2670f1b2f65c0a7469" title="GameServer::init" alt="" coords="717,59,837,88"/>
+</map>

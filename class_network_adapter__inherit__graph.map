@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_client.html" title="Class that is responsible for opening a tcp socket connection to the host." alt="" coords="5,83,96,112"/>
+<area shape="rect" id="node5" href="$class_game_server.html" title="Class that handles server client connection." alt="" coords="120,83,213,112"/>
+</map>

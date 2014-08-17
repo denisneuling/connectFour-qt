@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_board.html#a15b19b2ec1e4c63b47e113aba42d3ae3" title="GameBoard::getCoin" alt="" coords="289,5,433,35"/>
+<area shape="rect" id="node5" href="$class_game_board.html#ae43c300f4bc9df8a8d65231f96d335dd" title="GameBoard::isCoinValidAt" alt="" coords="272,59,451,88"/>
+</map>

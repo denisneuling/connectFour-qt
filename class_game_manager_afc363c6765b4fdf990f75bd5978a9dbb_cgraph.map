@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_helper.html#a665cf4e080d1e25199e5545df0cc253c" title="Helper::ResultToString" alt="" coords="255,5,409,35"/>
+<area shape="rect" id="node5" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="477,137,597,167"/>
+<area shape="rect" id="node7" href="$class_game_over_screen.html#a9767d775fcb476810e1d3690e631aa62" title="GameOverScreen::setWinner" alt="" coords="236,109,428,139"/>
+<area shape="rect" id="node9" href="$class_game_manager.html#a55876082b15630acf8109b5f0a33e6bd" title="GameManager::gameEnd" alt="" coords="247,163,417,192"/>
+<area shape="rect" id="node11" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="237,216,427,245"/>
+<area shape="rect" id="node13" href="$class_game_database.html#aa2e298187a235ff09b53444b65ef806c" title="GameDatabase::addGame" alt="" coords="244,269,420,299"/>
+<area shape="rect" id="node16" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="481,269,593,299"/>
+</map>

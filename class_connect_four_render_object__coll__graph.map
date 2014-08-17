@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_connect_four_object.html" title="base class for every connect four related class" alt="" coords="5,5,139,35"/>
+<area shape="rect" id="node4" href="$class_render_object.html" title="iface for objects which are able to be rendered" alt="" coords="163,5,264,35"/>
+</map>

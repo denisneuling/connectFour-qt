@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_client.html#aac63bd682b0cfde980b042bf8145e883" title="called when connected to the server" alt="" coords="328,5,485,35"/>
+<area shape="rect" id="node7" href="$class_game_server.html#ae41954b45bd6e4f7cff0b9c9034206cc" title="GameServer::newConnection" alt="" coords="311,59,503,88"/>
+<area shape="rect" id="node5" href="$class_game_client.html#a6c6faf6d8e0524f9b75041b3eaeb718d" title="GameClient::GameClient" alt="" coords="552,5,720,35"/>
+<area shape="rect" id="node9" href="$class_game_server.html#a65f06eb193e2ce2670f1b2f65c0a7469" title="GameServer::init" alt="" coords="576,59,696,88"/>
+</map>

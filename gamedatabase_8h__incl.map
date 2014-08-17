@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$game_8h.html" title="game.h" alt="" coords="336,83,400,112"/>
+<area shape="rect" id="node15" href="$player_8h.html" title="player.h" alt="" coords="404,160,471,189"/>
+<area shape="rect" id="node18" href="$coin_8h.html" title="coin.h" alt="" coords="424,237,480,267"/>
+</map>
