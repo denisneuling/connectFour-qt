@@ -14,7 +14,6 @@ class ConnectFourObject
 public:
     ConnectFourObject(int width, int height) : m_Rows(height) , m_Columns(width)
     {
-
     }
 
 protected:

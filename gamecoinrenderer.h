@@ -24,13 +24,19 @@ public:
 
     GameCoinRenderer(int width, int height, float cellSize);
 
-    //! renders the board
+    /*!
+     * renders the board
+     */
     virtual void draw();
 
-    //! adds coins to the board
+    /*!
+     * adds coins to the board
+     */
     void updateGameCoins(int column, Coin coin);
 
-    //! updates the whole board
+    /*!
+     * updates the whole board
+     */
     void setGameBoard(std::vector<std::shared_ptr<BoardColumn> > board);
 private:
 

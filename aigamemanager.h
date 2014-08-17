@@ -17,7 +17,9 @@ class AIGameManager : public GameManager
 public:
     explicit AIGameManager(QWidget *parent = 0);
 
-    //! Sets the starting player depending wether ai should start
+    /*!
+     * \brief Sets the starting player depending wether ai should start
+     */
     void setStartingPlayer(Settings settings);
 
 signals:

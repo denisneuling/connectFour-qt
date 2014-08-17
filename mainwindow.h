@@ -35,7 +35,9 @@ private slots:
     void settingsWidgetHostButtonPressed(Settings settings);
     void settingsWidgetResultsButtonPressed();
 
-    // triggered after game is started, important for networkgames
+    /*!
+     * triggered after game is started, important for networkgames
+     */
     void gameStarted();
 
     void onSaveAction();

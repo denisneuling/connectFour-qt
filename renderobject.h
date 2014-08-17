@@ -1,7 +1,14 @@
 #ifndef RENDEROBJECT_H
 #define RENDEROBJECT_H
 
-//! abstract class for each renderable object
+/*!
+ * \class RenderObject
+ * \brief iface for objects which are able to be rendered
+ * \details abstract class for each renderable object
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class RenderObject
 {
 public:

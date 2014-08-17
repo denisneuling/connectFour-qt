@@ -22,9 +22,13 @@ public:
     explicit GameServer(QObject *parent = 0);
 
 public slots:
-    //! called when a new client connects
+    /*!
+     * called when a new client connects
+     */
     void newConnection();
-    //! called when new data is available from the client
+    /*!
+     * called when new data is available from the client
+     */
     void readReady();
 private:
     QTcpServer* m_pServer;

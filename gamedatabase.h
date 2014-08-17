@@ -24,8 +24,9 @@ class GameDatabase : public QObject
 public:
     ~GameDatabase();
 
-    //! Adds a game to the database
     /*!
+     * Adds a game to the database
+     *
      * \param the game to add
      */
     void addGame(Game game);

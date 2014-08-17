@@ -46,9 +46,9 @@ public:
         return true;
     }
 
-    //! returns the coin at the specific index
     /*!
-     \param index the index of the coin
+     * \details returns the coin at the specific index
+     * \param index the index of the coin
      */
     Coin getCoin(int index)
     {
@@ -57,13 +57,17 @@ public:
         return m_pCoins[index];
     }
 
-    //! removes the last added coin
+    /*!
+     * \details removes the last added coin
+     */
     void removeLastCoin()
     {
         m_CurrentAmountOfCoins--;
     }
 
-    //! clears the boardcolumn
+    /*!
+	 * \details clears the boardcolumn
+	 */
     void clear()
     {
         m_CurrentAmountOfCoins = 0;

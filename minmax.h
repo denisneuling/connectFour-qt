@@ -24,7 +24,9 @@
 class MinMax
 {
 public:
-    //! calculares the ai's nex move
+    /*!
+     * calculares the ai's nex move
+     */
     int calculateMove(GameBoard& board, GameManager& manager)
     {
         std::vector<int> moves = board.getAvailableMoves();
@@ -43,7 +45,9 @@ public:
         return columnToPlay;
     }
 private:
-    //! evaluates the current move
+    /*!
+     * evaluates the current move
+     */
     float scoreMove(GameBoard& board, GameManager& manager, int column, int depth = 0)
     {
         Result result = board.checkGameConditions();
@@ -72,7 +76,6 @@ private:
         board.removeCoin(column);
         manager.switchPlayer();
         return alpha;
-
     }
 };
 

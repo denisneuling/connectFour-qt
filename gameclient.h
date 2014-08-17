@@ -24,7 +24,9 @@ public slots:
     //! called when connected to the server
     void connected();
 
-    //! called when new data is available from the client
+    /*!
+     * called when new data is available from the client
+     */
     void readReady();
 private:
     QTcpSocket* m_pSocket;
