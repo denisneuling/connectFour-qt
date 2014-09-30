@@ -1,0 +1,5 @@
+<map id="GameServer::newConnection" name="GameServer::newConnection">
+<area shape="rect" id="node2" href="$class_game_audio_manager.html#ac7c815f232bdf6fc59e9c79ea1379013" title="GameAudioManager::getInstance" alt="" coords="248,5,464,32"/>
+<area shape="rect" id="node3" href="$class_game_audio_manager.html#a92a40349d9d48bdd0f9f8599db854cba" title="plays the audio file " alt="" coords="253,56,459,83"/>
+<area shape="rect" id="node4" href="$class_game_server.html#ae04551b358465ca81a34073abb7d6380" title="called when new data is available from the client " alt="" coords="273,107,439,133"/>
+</map>

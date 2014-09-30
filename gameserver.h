@@ -8,7 +8,14 @@
 
 #include "networkadapter.h"
 
-//! Class that handles server client connection
+/*!
+ * \class GameServer
+ * \brief Class that handles server client connection
+ * \details Class that handles server client connection
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameServer : public NetworkAdapter
 {
     Q_OBJECT

@@ -1,0 +1,4 @@
+<map id="NetworkAdapter::connectionEstablished" name="NetworkAdapter::connectionEstablished">
+<area shape="rect" id="node2" href="$class_game_client.html#a5457bdb6b9a17067bbb67a2498ee395d" title="called when new data is available from the client " alt="" coords="240,12,403,39"/>
+<area shape="rect" id="node3" href="$class_game_client.html#a6c6faf6d8e0524f9b75041b3eaeb718d" title="GameClient::GameClient" alt="" coords="451,12,619,39"/>
+</map>

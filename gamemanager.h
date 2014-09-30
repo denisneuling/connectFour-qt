@@ -14,7 +14,14 @@
 
 #define DELTA_TIME (1000 / 60)
 
-//! Class that handles game states and instanciates renderer and board
+/*!
+ * \class GameManager
+ * \brief Class that handles game states and instanciates renderer and board
+ * \details Class that handles game states and instanciates renderer and board
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameManager : public QWidget
 {
     Q_OBJECT
@@ -22,10 +29,14 @@ public:
     explicit GameManager(QWidget *parent = 0);
     ~GameManager();
 
-    //! instanciates renderer and gameboard
+    /*!
+     * instanciates renderer and gameboard
+     */
     virtual void startGame(Settings settings);
 
-    //! used for diffent game managers to handle starting player
+    /*!
+     * used for diffent game managers to handle starting player
+     */
     virtual void setStartingPlayer(Settings settings, Coin player = RED);
 
     void finishGame(Game game);
@@ -35,15 +46,21 @@ public slots:
 
     void gameEnd();
 
-    //! poll mouse position and update states
+    /*!
+     * poll mouse position and update states
+     */
     void update();
 
-    //! drop coins and check finish game
+    /*!
+     * drop coins and check finish game
+     */
     void mousePressEvent(QMouseEvent *event);
 
     void saveGame();
 
-    //! also handles start game
+    /*!
+     * also handles start game
+     */
     void loadGame(QString gameBoard);
 
     void switchPlayer();

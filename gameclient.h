@@ -6,7 +6,14 @@
 #include <QTcpSocket>
 #include "networkadapter.h"
 
-//! Class that handles the  client network object
+/*!
+ * \class GameClient
+ * \brief Class that is responsible for opening a tcp socket connection to the host
+ * \details Class handles a tcp socket connection to the host
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameClient : public NetworkAdapter
 {
     Q_OBJECT

@@ -1,0 +1,22 @@
+<map id="TCPGameManager::clientConnected" name="TCPGameManager::clientConnected">
+<area shape="rect" id="node2" href="$class_t_c_p_game_manager.html#af76ec973ba1c3e7f58ac979fffccb85f" title="TCPGameManager::mousePress\lEvent" alt="" coords="291,223,506,265"/>
+<area shape="rect" id="node3" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActive\lPlayer" alt="" coords="560,5,773,46"/>
+<area shape="rect" id="node4" href="$class_network_adapter.html#a304921c7d4e599031608a9a9217c900f" title="NetworkAdapter::send" alt="" coords="591,71,743,97"/>
+<area shape="rect" id="node17" href="$class_game_renderer.html#a5a8dc2ad72bfeeebb1f127a5d746dad5" title="GameRenderer::getGameBoard\lRenderer" alt="" coords="564,458,769,499"/>
+<area shape="rect" id="node19" href="$class_game_manager.html#a7ecc3a14cd9e92f50729b37d1364953f" title="GameManager::update" alt="" coords="321,289,476,316"/>
+<area shape="rect" id="node20" href="$class_network_adapter.html#a37549ba9c99061a8c5407299b380139d" title="NetworkAdapter::IsServer" alt="" coords="312,391,485,417"/>
+<area shape="rect" id="node21" href="$class_game_renderer.html#a01dc39b34cda656bd5bd72c50103e306" title="GameRenderer::initialize" alt="" coords="316,441,481,468"/>
+<area shape="rect" id="node5" href="$class_helper.html#a13ac9ee4039795a9b27bc38a81b9f870" title="Helper::boardUpdate" alt="" coords="595,289,738,316"/>
+<area shape="rect" id="node6" href="$class_game_manager.html#a875582122292a52ffcae786a46490f89" title="GameManager::getCurrentInactive\lPlayer" alt="" coords="555,341,778,382"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#afc363c6765b4fdf990f75bd5978a9dbb" title="GameManager::finishGame" alt="" coords="576,172,757,199"/>
+<area shape="rect" id="node8" href="$class_game_audio_manager.html#ac7c815f232bdf6fc59e9c79ea1379013" title="GameAudioManager::getInstance" alt="" coords="827,391,1043,417"/>
+<area shape="rect" id="node9" href="$class_game_audio_manager.html#a92a40349d9d48bdd0f9f8599db854cba" title="plays the audio file " alt="" coords="832,28,1037,55"/>
+<area shape="rect" id="node18" href="$class_game_renderer.html#a28fc9bf401d821351a35f59bf5bd1761" title="GameRenderer::getGameCoin\lRenderer" alt="" coords="567,223,766,265"/>
+<area shape="rect" id="node10" href="$class_helper.html#a665cf4e080d1e25199e5545df0cc253c" title="Helper::ResultToString" alt="" coords="857,332,1012,359"/>
+<area shape="rect" id="node11" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="1091,79,1211,105"/>
+<area shape="rect" id="node12" href="$class_game_over_screen.html#a9767d775fcb476810e1d3690e631aa62" title="GameOverScreen::setWinner" alt="" coords="838,180,1031,207"/>
+<area shape="rect" id="node13" href="$class_game_manager.html#a55876082b15630acf8109b5f0a33e6bd" title="GameManager::gameEnd" alt="" coords="849,231,1020,257"/>
+<area shape="rect" id="node14" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="840,281,1029,308"/>
+<area shape="rect" id="node15" href="$class_game_database.html#aa2e298187a235ff09b53444b65ef806c" title="GameDatabase::addGame" alt="" coords="846,129,1023,156"/>
+<area shape="rect" id="node16" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="1095,129,1207,156"/>
+</map>

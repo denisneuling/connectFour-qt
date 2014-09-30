@@ -11,7 +11,14 @@
 #include "renderobject.h"
 #include "settings.h"
 
-//! Class that is responsible for rendering the coins added to the board
+/*!
+ * \class GameCoinRenderer
+ * \brief Class that is responsible for rendering the coins added to the board
+ * \details Class that is responsible for rendering the coins added to the board
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameCoinRenderer : public ConnectFourRenderObject
 {
 public:
@@ -19,13 +26,19 @@ public:
     GameCoinRenderer(int width, int height, float cellSize, Design design);
     virtual ~GameCoinRenderer() {}
 
-    //! renders the board
+    /*!
+     * renders the board
+     */
     virtual void draw();
 
-    //! adds coins to the board
+    /*!
+     * adds coins to the board
+     */
     void updateGameCoins(int column, Coin coin);
 
-    //! updates the whole board
+    /*!
+     * updates the whole board
+     */
     void setGameBoard(std::vector<std::shared_ptr<BoardColumn> > board);
 private:
 

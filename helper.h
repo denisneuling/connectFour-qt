@@ -8,7 +8,14 @@
 
 #define PI 3.141592653
 
-//! Helper class for Connect Four
+/*!
+ * \class Helper
+ * \brief Helper class for Connect Four
+ * \details Helper class for Connect Four
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class Helper
 {
 public:

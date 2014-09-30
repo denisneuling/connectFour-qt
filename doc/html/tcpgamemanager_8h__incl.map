@@ -1,0 +1,20 @@
+<map id="tcpgamemanager.h" name="tcpgamemanager.h">
+<area shape="rect" id="node3" href="$gamemanager_8h.html" title="gamemanager.h" alt="" coords="1213,80,1328,107"/>
+<area shape="rect" id="node29" href="$networkadapter_8h.html" title="networkadapter.h" alt="" coords="1696,80,1819,107"/>
+<area shape="rect" id="node31" href="$serversearchlistener_8h.html" title="serversearchlistener.h" alt="" coords="1613,304,1763,331"/>
+<area shape="rect" id="node6" href="$game_8h.html" title="game.h" alt="" coords="1077,453,1141,480"/>
+<area shape="rect" id="node11" href="$gameboard_8h.html" title="gameboard.h" alt="" coords="983,304,1080,331"/>
+<area shape="rect" id="node19" href="$gamerenderer_8h.html" title="gamerenderer.h" alt="" coords="323,155,433,181"/>
+<area shape="rect" id="node21" href="$settings_8h.html" title="settings.h" alt="" coords="165,379,243,405"/>
+<area shape="rect" id="node28" href="$gameoverscreen_8h.html" title="gameoverscreen.h" alt="" coords="1359,155,1488,181"/>
+<area shape="rect" id="node9" href="$player_8h.html" title="player.h" alt="" coords="1005,528,1072,555"/>
+<area shape="rect" id="node10" href="$coin_8h.html" title="coin.h" alt="" coords="866,603,923,629"/>
+<area shape="rect" id="node14" href="$helper_8h.html" title="helper.h" alt="" coords="319,379,387,405"/>
+<area shape="rect" id="node17" href="$boardcolumn_8h.html" title="boardcolumn.h" alt="" coords="751,379,857,405"/>
+<area shape="rect" id="node18" href="$connectfourobject_8h.html" title="connectfourobject.h" alt="" coords="591,379,725,405"/>
+<area shape="rect" id="node22" href="$gameboardrenderer_8h.html" title="gameboardrenderer.h" alt="" coords="307,229,451,256"/>
+<area shape="rect" id="node26" href="$gamecoinrenderer_8h.html" title="gamecoinrenderer.h" alt="" coords="609,229,744,256"/>
+<area shape="rect" id="node24" href="$connectfourrenderobject_8h.html" title="connectfourrenderobject.h" alt="" coords="467,304,639,331"/>
+<area shape="rect" id="node25" href="$renderobject_8h.html" title="renderobject.h" alt="" coords="463,379,567,405"/>
+<area shape="rect" id="node27" href="$animation_8h.html" title="animation.h" alt="" coords="850,528,939,555"/>
+</map>

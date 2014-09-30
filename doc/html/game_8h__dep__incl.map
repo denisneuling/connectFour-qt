@@ -1,0 +1,30 @@
+<map id="game.h" name="game.h">
+<area shape="rect" id="node2" href="$gamemanager_8h.html" title="gamemanager.h" alt="" coords="243,379,357,405"/>
+<area shape="rect" id="node6" href="$minmax_8h.html" title="minmax.h" alt="" coords="25,453,103,480"/>
+<area shape="rect" id="node15" href="$gameboard_8h.html" title="gameboard.h" alt="" coords="151,155,248,181"/>
+<area shape="rect" id="node21" href="$helper_8h.html" title="helper.h" alt="" coords="633,80,700,107"/>
+<area shape="rect" id="node25" href="$gamedatabase_8cpp.html" title="gamedatabase.cpp" alt="" coords="959,155,1091,181"/>
+<area shape="rect" id="node28" href="$gamedatabase_8h.html" title="gamedatabase.h" alt="" coords="1070,80,1188,107"/>
+<area shape="rect" id="node29" href="$gameresults_8cpp.html" title="gameresults.cpp" alt="" coords="1218,155,1336,181"/>
+<area shape="rect" id="node3" href="$aigamemanager_8h.html" title="aigamemanager.h" alt="" coords="101,528,227,555"/>
+<area shape="rect" id="node7" href="$tcpgamemanager_8h.html" title="tcpgamemanager.h" alt="" coords="335,453,468,480"/>
+<area shape="rect" id="node10" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="518,603,623,629"/>
+<area shape="rect" id="node13" href="$gamemanager_8cpp.html" title="gamemanager.cpp" alt="" coords="857,453,985,480"/>
+<area shape="rect" id="node14" href="$settingswidget_8cpp.html" title="settingswidget.cpp" alt="" coords="129,453,259,480"/>
+<area shape="rect" id="node4" href="$aigamemanager_8cpp.html" title="aigamemanager.cpp" alt="" coords="5,603,144,629"/>
+<area shape="rect" id="node5" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="298,677,416,704"/>
+<area shape="rect" id="node8" href="$chatwidget_8h.html" title="chatwidget.h" alt="" coords="523,528,619,555"/>
+<area shape="rect" id="node9" href="$chatwidget_8cpp.html" title="chatwidget.cpp" alt="" coords="342,603,452,629"/>
+<area shape="rect" id="node12" href="$tcpgamemanager_8cpp.html" title="tcpgamemanager.cpp" alt="" coords="352,528,499,555"/>
+<area shape="rect" id="node11" href="$main_8cpp.html" title="main.cpp" alt="" coords="533,677,607,704"/>
+<area shape="rect" id="node16" href="$gameboardrenderer_8h.html" title="gameboardrenderer.h" alt="" coords="339,229,483,256"/>
+<area shape="rect" id="node20" href="$gameboard_8cpp.html" title="gameboard.cpp" alt="" coords="151,229,261,256"/>
+<area shape="rect" id="node17" href="$gamerenderer_8h.html" title="gamerenderer.h" alt="" coords="521,304,632,331"/>
+<area shape="rect" id="node19" href="$gameboardrenderer_8cpp.html" title="gameboardrenderer.cpp" alt="" coords="338,304,496,331"/>
+<area shape="rect" id="node18" href="$gamerenderer_8cpp.html" title="gamerenderer.cpp" alt="" coords="514,379,640,405"/>
+<area shape="rect" id="node22" href="$connectfourrenderobject_8h.html" title="connectfourrenderobject.h" alt="" coords="325,155,496,181"/>
+<area shape="rect" id="node23" href="$gamecoinrenderer_8h.html" title="gamecoinrenderer.h" alt="" coords="588,229,723,256"/>
+<area shape="rect" id="node26" href="$serversearch_8cpp.html" title="serversearch.cpp" alt="" coords="521,155,644,181"/>
+<area shape="rect" id="node27" href="$serversearchlistener_8cpp.html" title="serversearchlistener.cpp" alt="" coords="669,155,832,181"/>
+<area shape="rect" id="node24" href="$gamecoinrenderer_8cpp.html" title="gamecoinrenderer.cpp" alt="" coords="658,304,808,331"/>
+</map>

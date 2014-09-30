@@ -1,0 +1,5 @@
+<map id="ConnectFourRenderObject::getCoinRadius" name="ConnectFourRenderObject::getCoinRadius">
+<area shape="rect" id="node2" href="$class_connect_four_render_object.html#a4b8e9a3cc37ba5b6a6baf341f18f8328" title="ConnectFourRenderObject\l::drawPrimitive" alt="" coords="233,23,410,65"/>
+<area shape="rect" id="node3" href="$class_game_board_renderer.html#a9daf708f14cd6accf1e2f4cc54bb7d56" title="GameBoardRenderer::draw" alt="" coords="459,5,639,32"/>
+<area shape="rect" id="node4" href="$class_game_coin_renderer.html#a2b1b51d93a38675ee1f30fc6cacbaccd" title="GameCoinRenderer::draw" alt="" coords="463,56,636,83"/>
+</map>

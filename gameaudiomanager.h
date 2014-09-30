@@ -6,7 +6,14 @@
 #include <map>
 #include <memory>
 
-//! Singleton Class that handles audio loading and playback
+/*!
+ * \class GameAudioManager
+ * \brief Class that is responsible for playing audio sequences
+ * \details Class that is responsible for playing audio sequences 
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameAudioManager : public QObject
 {
     Q_OBJECT

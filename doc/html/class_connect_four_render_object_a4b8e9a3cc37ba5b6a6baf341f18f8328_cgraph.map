@@ -1,0 +1,6 @@
+<map id="ConnectFourRenderObject::drawPrimitive" name="ConnectFourRenderObject::drawPrimitive">
+<area shape="rect" id="node2" href="$class_helper.html#ae7ae04b5ed393589228994c9ce203cac" title="Helper::DrawCircle" alt="" coords="255,5,388,32"/>
+<area shape="rect" id="node3" href="$class_connect_four_render_object.html#a04ad47593cfd44bdda2ae4ba833f5a18" title="ConnectFourRenderObject\l::getCoinRadius" alt="" coords="233,57,410,98"/>
+<area shape="rect" id="node4" href="$class_helper.html#a1624591dac426f4491d28a92e6f4a3ac" title="Helper::DrawSquare" alt="" coords="251,123,391,149"/>
+<area shape="rect" id="node5" href="$class_helper.html#aa9b0b92a5842b0daf41108b9940bbe44" title="Helper::DrawTriangle" alt="" coords="249,173,394,200"/>
+</map>

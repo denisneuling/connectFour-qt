@@ -1,0 +1,4 @@
+<map id="TCPGameManager::sendMessage" name="TCPGameManager::sendMessage">
+<area shape="rect" id="node2" href="$class_network_adapter.html#a955b0bf900e7eca5051c203f86898538" title="NetworkAdapter::isConnected" alt="" coords="277,5,475,32"/>
+<area shape="rect" id="node3" href="$class_network_adapter.html#a304921c7d4e599031608a9a9217c900f" title="NetworkAdapter::send" alt="" coords="300,56,452,83"/>
+</map>

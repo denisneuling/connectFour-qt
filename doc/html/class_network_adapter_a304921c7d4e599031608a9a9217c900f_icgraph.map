@@ -1,0 +1,7 @@
+<map id="NetworkAdapter::send" name="NetworkAdapter::send">
+<area shape="rect" id="node2" href="$class_t_c_p_game_manager.html#a518a1a16b52b9ede6474749f59f203b1" title="TCPGameManager::sendMessage" alt="" coords="206,5,429,32"/>
+<area shape="rect" id="node3" href="$class_t_c_p_game_manager.html#a616b05b986023096f7475e32c70a059d" title="TCPGameManager::clientConnected" alt="" coords="478,115,714,141"/>
+<area shape="rect" id="node5" href="$class_t_c_p_game_manager.html#a6412d2d4a43e5ff353d410e810f60675" title="TCPGameManager::receivedData" alt="" coords="487,169,705,196"/>
+<area shape="rect" id="node6" href="$class_t_c_p_game_manager.html#af76ec973ba1c3e7f58ac979fffccb85f" title="TCPGameManager::mousePress\lEvent" alt="" coords="210,107,425,149"/>
+<area shape="rect" id="node4" href="$class_t_c_p_game_manager.html#a7d4415253458e80a05314f91a0879fd0" title="TCPGameManager::startGame" alt="" coords="763,140,965,167"/>
+</map>

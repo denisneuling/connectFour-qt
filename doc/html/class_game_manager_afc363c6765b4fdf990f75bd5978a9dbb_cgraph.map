@@ -1,0 +1,11 @@
+<map id="GameManager::finishGame" name="GameManager::finishGame">
+<area shape="rect" id="node2" href="$class_game_audio_manager.html#ac7c815f232bdf6fc59e9c79ea1379013" title="GameAudioManager::getInstance" alt="" coords="235,5,451,32"/>
+<area shape="rect" id="node3" href="$class_game_audio_manager.html#a92a40349d9d48bdd0f9f8599db854cba" title="plays the audio file " alt="" coords="240,56,445,83"/>
+<area shape="rect" id="node4" href="$class_helper.html#a665cf4e080d1e25199e5545df0cc253c" title="Helper::ResultToString" alt="" coords="265,107,420,133"/>
+<area shape="rect" id="node5" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="499,233,619,260"/>
+<area shape="rect" id="node6" href="$class_game_over_screen.html#a9767d775fcb476810e1d3690e631aa62" title="GameOverScreen::setWinner" alt="" coords="246,208,439,235"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#a55876082b15630acf8109b5f0a33e6bd" title="GameManager::gameEnd" alt="" coords="257,259,428,285"/>
+<area shape="rect" id="node8" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="248,309,437,336"/>
+<area shape="rect" id="node9" href="$class_game_database.html#aa2e298187a235ff09b53444b65ef806c" title="GameDatabase::addGame" alt="" coords="254,360,431,387"/>
+<area shape="rect" id="node10" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="503,360,615,387"/>
+</map>

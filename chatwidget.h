@@ -7,6 +7,14 @@ namespace Ui {
 class ChatWidget;
 }
 
+/*!
+ * \brief class representing a chat widget
+ * \details class representing a chat widget enabling 
+ *		the user to communicate with its opponent
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class ChatWidget : public QWidget
 {
     Q_OBJECT

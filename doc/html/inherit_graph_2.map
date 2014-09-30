@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_chat_widget.html" title="class representing a chat widget " alt="" coords="147,5,237,32"/>
+<area shape="rect" id="node3" href="$class_game_manager.html" title="Class that handles game states and instanciates renderer and board. " alt="" coords="139,56,245,83"/>
+<area shape="rect" id="node6" href="$class_game_over_screen.html" title="Class that handles game over screen. " alt="" coords="129,107,255,133"/>
+<area shape="rect" id="node7" href="$class_game_results.html" title="show previous games " alt="" coords="141,157,243,184"/>
+<area shape="rect" id="node8" href="$class_server_search.html" title="The ServerSearch class handles requesting and rendering of a server list in the local network..." alt="" coords="141,208,243,235"/>
+<area shape="rect" id="node9" href="$class_settings_widget.html" title="widget for settings " alt="" coords="137,259,247,285"/>
+<area shape="rect" id="node4" href="$class_a_i_game_manager.html" title="ai specific gamemanager " alt="" coords="312,31,432,57"/>
+<area shape="rect" id="node5" href="$class_t_c_p_game_manager.html" title="Gamemanager that handles Network game related tasks. " alt="" coords="305,81,439,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameBoard::checkWinConditions" name="GameBoard::checkWinConditions">
+<area shape="rect" id="node2" href="$class_game_board.html#a15b19b2ec1e4c63b47e113aba42d3ae3" title="GameBoard::getCoin" alt="" coords="289,5,433,32"/>
+<area shape="rect" id="node3" href="$class_game_board.html#ae43c300f4bc9df8a8d65231f96d335dd" title="GameBoard::isCoinValidAt" alt="" coords="272,56,451,83"/>
+</map>

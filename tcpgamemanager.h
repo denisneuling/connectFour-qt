@@ -7,7 +7,14 @@
 #include "networkadapter.h"
 #include "serversearchlistener.h"
 
-//! Gamemanager that handles Network game related tasks
+/*!
+ * \class TCPGameManager
+ * \brief Gamemanager that handles Network game related tasks
+ * \details Gamemanager that handles Network game related tasks
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class TCPGameManager : public GameManager
 {
     Q_OBJECT

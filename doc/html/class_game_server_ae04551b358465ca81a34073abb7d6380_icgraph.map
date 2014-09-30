@@ -1,0 +1,4 @@
+<map id="GameServer::readReady" name="GameServer::readReady">
+<area shape="rect" id="node2" href="$class_game_server.html#ae41954b45bd6e4f7cff0b9c9034206cc" title="called when a new client connects " alt="" coords="222,5,415,32"/>
+<area shape="rect" id="node3" href="$class_game_server.html#a65f06eb193e2ce2670f1b2f65c0a7469" title="GameServer::init" alt="" coords="464,5,584,32"/>
+</map>

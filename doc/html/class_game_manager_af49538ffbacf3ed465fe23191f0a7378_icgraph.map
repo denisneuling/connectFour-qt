@@ -1,0 +1,7 @@
+<map id="GameManager::switchPlayer" name="GameManager::switchPlayer">
+<area shape="rect" id="node2" href="$class_game_manager.html#a4d65975808a9ddce05814b0708b11268" title="GameManager::checkAndHandleWin" alt="" coords="245,41,483,68"/>
+<area shape="rect" id="node3" href="$class_game_manager.html#ac15bf5701604781f66047dc8c94f70a7" title="GameManager::mousePressEvent" alt="" coords="531,41,754,68"/>
+<area shape="rect" id="node4" href="$class_a_i_game_manager.html#a1dd46d003522dfad3572c0de445d1d20" title="AIGameManager::mousePress\lEvent" alt="" coords="803,5,1005,46"/>
+<area shape="rect" id="node6" href="$class_game_manager.html#a4acbc34fa6c280d0f6d48ff867626ce2" title="GameManager::startGame" alt="" coords="816,71,992,97"/>
+<area shape="rect" id="node5" href="$class_a_i_game_manager.html#a00ceeb80c83e9b7951442ce695b9730f" title="AIGameManager::startGame" alt="" coords="1053,12,1243,39"/>
+</map>

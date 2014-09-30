@@ -3,6 +3,13 @@
 
 #include <QString>
 
+/*!
+ * \brief some design configuration capabilities...
+ * \details some design configuration capabilities...
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 typedef enum Design
 {
     Round = 0,
@@ -10,6 +17,13 @@ typedef enum Design
     Triangle
 } Design;
 
+/*!
+ * \brief defines the strength of the artificial intelligence engine
+ * \details defines the strength of the artificial intelligence engine
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 typedef enum AIStrength
 {
     Easy = 0,
@@ -17,7 +31,13 @@ typedef enum AIStrength
     Hard
 } AIStrength;
 
-//! data holder between ui and game
+/*!
+ * \brief data holder between ui and game
+ * \details data holder between ui and game
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 typedef struct Settings
 {
     Settings() :

@@ -1,0 +1,12 @@
+<map id="GameDatabase::addGame" name="GameDatabase::addGame">
+<area shape="rect" id="node2" href="$class_game_manager.html#afc363c6765b4fdf990f75bd5978a9dbb" title="GameManager::finishGame" alt="" coords="232,107,413,133"/>
+<area shape="rect" id="node3" href="$class_game_manager.html#a4d65975808a9ddce05814b0708b11268" title="GameManager::checkAndHandleWin" alt="" coords="461,56,699,83"/>
+<area shape="rect" id="node8" href="$class_t_c_p_game_manager.html#a6412d2d4a43e5ff353d410e810f60675" title="TCPGameManager::receivedData" alt="" coords="756,108,975,135"/>
+<area shape="rect" id="node10" href="$class_t_c_p_game_manager.html#af76ec973ba1c3e7f58ac979fffccb85f" title="TCPGameManager::mousePress\lEvent" alt="" coords="473,158,687,199"/>
+<area shape="rect" id="node4" href="$class_game_manager.html#ac15bf5701604781f66047dc8c94f70a7" title="GameManager::mousePressEvent" alt="" coords="754,56,977,83"/>
+<area shape="rect" id="node5" href="$class_a_i_game_manager.html#a1dd46d003522dfad3572c0de445d1d20" title="AIGameManager::mousePress\lEvent" alt="" coords="1033,5,1234,46"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#a4acbc34fa6c280d0f6d48ff867626ce2" title="GameManager::startGame" alt="" coords="1045,71,1221,97"/>
+<area shape="rect" id="node6" href="$class_a_i_game_manager.html#a00ceeb80c83e9b7951442ce695b9730f" title="AIGameManager::startGame" alt="" coords="1283,12,1472,39"/>
+<area shape="rect" id="node9" href="$class_t_c_p_game_manager.html#a7d4415253458e80a05314f91a0879fd0" title="TCPGameManager::startGame" alt="" coords="1032,136,1235,163"/>
+<area shape="rect" id="node11" href="$class_t_c_p_game_manager.html#a616b05b986023096f7475e32c70a059d" title="TCPGameManager::clientConnected" alt="" coords="747,163,983,189"/>
+</map>

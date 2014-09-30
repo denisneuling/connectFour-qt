@@ -1,0 +1,6 @@
+<map id="Helper::serverSearchResult" name="Helper::serverSearchResult">
+<area shape="rect" id="node2" href="$class_server_search.html#a5f0aa647331b434da9e9346100448211" title="called on response to the serversearch request " alt="" coords="254,5,426,32"/>
+<area shape="rect" id="node4" href="$class_server_search_listener.html#a21a16b4da531df945508189dc7d4d704" title="processServerSearchRequest called when new data is available on the socket handles response on the re..." alt="" coords="238,57,442,98"/>
+<area shape="rect" id="node3" href="$class_server_search.html#a7b9bf3523032f803b44aca2fe27a11dd" title="called when the Widget is shown " alt="" coords="491,5,666,32"/>
+<area shape="rect" id="node5" href="$class_server_search_listener.html#aa3ee0bdea4c0c4151c3882644e42eb5d" title="ServerSearchListener\l::ServerSearchListener" alt="" coords="501,57,656,98"/>
+</map>

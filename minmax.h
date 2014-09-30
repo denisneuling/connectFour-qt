@@ -15,7 +15,16 @@ using namespace std;
 
 #define MAX_DEPTH 4
 
-//! Negamax algorithm
+/*!
+ * \class MinMax
+ * \brief Negamax algorithm
+ * \details Negamax algorithm
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ *
+ * \link http://en.wikipedia.org/wiki/Negamax
+ */
 class MinMax
 {
 public:
@@ -24,7 +33,9 @@ public:
         m_MaxDepth = static_cast<int>(strength) + 2;
     }
 
-    //! calculares the ai's next move
+    /*!
+     * calculares the ai's nex move
+     */
     int calculateMove(GameBoard& board, GameManager& manager)
     {
         std::vector<int> moves = board.getAvailableMoves();
@@ -43,7 +54,9 @@ public:
         return columnToPlay;
     }
 private:
-    //! evaluates the current move
+    /*!
+     * evaluates the current move
+     */
     float scoreMove(GameBoard& board, GameManager& manager, int column, int depth = 0)
     {
         Result result = board.checkGameConditions();

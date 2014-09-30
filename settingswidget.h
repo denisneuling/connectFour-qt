@@ -8,6 +8,14 @@ namespace Ui {
 class SettingsWidget;
 }
 
+/*!
+ * \class SettingsWidget
+ * \brief widget for settings
+ * \details widget for settings
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class SettingsWidget : public QWidget
 {
     Q_OBJECT

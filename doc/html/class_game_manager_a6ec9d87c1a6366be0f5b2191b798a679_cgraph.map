@@ -1,0 +1,4 @@
+<map id="GameManager::setStartingPlayer" name="GameManager::setStartingPlayer">
+<area shape="rect" id="node2" href="$class_game_renderer.html#a5a8dc2ad72bfeeebb1f127a5d746dad5" title="GameRenderer::getGameBoard\lRenderer" alt="" coords="236,5,441,46"/>
+<area shape="rect" id="node3" href="$class_game_manager.html#aef672bf56ae84eb10a65bf227e487717" title="GameManager::getCurrentActive\lPlayer" alt="" coords="232,70,445,111"/>
+</map>

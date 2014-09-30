@@ -1,0 +1,5 @@
+<map id="GameManager::setStartingPlayer" name="GameManager::setStartingPlayer">
+<area shape="rect" id="node2" href="$class_game_manager.html#a4acbc34fa6c280d0f6d48ff867626ce2" title="GameManager::startGame" alt="" coords="253,5,429,32"/>
+<area shape="rect" id="node3" href="$class_t_c_p_game_manager.html#a6412d2d4a43e5ff353d410e810f60675" title="TCPGameManager::receivedData" alt="" coords="232,56,451,83"/>
+<area shape="rect" id="node4" href="$class_t_c_p_game_manager.html#a7d4415253458e80a05314f91a0879fd0" title="TCPGameManager::startGame" alt="" coords="499,56,701,83"/>
+</map>

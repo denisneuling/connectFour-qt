@@ -1,0 +1,7 @@
+<map id="NetworkAdapter::dataReceived" name="NetworkAdapter::dataReceived">
+<area shape="rect" id="node2" href="$class_game_client.html#a5457bdb6b9a17067bbb67a2498ee395d" title="called when new data is available from the client " alt="" coords="261,5,424,32"/>
+<area shape="rect" id="node4" href="$class_game_server.html#ae04551b358465ca81a34073abb7d6380" title="called when new data is available from the client " alt="" coords="259,56,426,83"/>
+<area shape="rect" id="node3" href="$class_game_client.html#a6c6faf6d8e0524f9b75041b3eaeb718d" title="GameClient::GameClient" alt="" coords="488,5,656,32"/>
+<area shape="rect" id="node5" href="$class_game_server.html#ae41954b45bd6e4f7cff0b9c9034206cc" title="called when a new client connects " alt="" coords="475,56,669,83"/>
+<area shape="rect" id="node6" href="$class_game_server.html#a65f06eb193e2ce2670f1b2f65c0a7469" title="GameServer::init" alt="" coords="717,56,837,83"/>
+</map>

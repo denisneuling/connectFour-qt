@@ -1,0 +1,12 @@
+<map id="gamecoinrenderer.h" name="gamecoinrenderer.h">
+<area shape="rect" id="node4" href="$animation_8h.html" title="animation.h" alt="" coords="118,304,207,331"/>
+<area shape="rect" id="node6" href="$boardcolumn_8h.html" title="boardcolumn.h" alt="" coords="265,80,372,107"/>
+<area shape="rect" id="node8" href="$connectfourrenderobject_8h.html" title="connectfourrenderobject.h" alt="" coords="450,80,621,107"/>
+<area shape="rect" id="node10" href="$helper_8h.html" title="helper.h" alt="" coords="378,155,445,181"/>
+<area shape="rect" id="node17" href="$renderobject_8h.html" title="renderobject.h" alt="" coords="733,155,837,181"/>
+<area shape="rect" id="node18" href="$settings_8h.html" title="settings.h" alt="" coords="630,155,708,181"/>
+<area shape="rect" id="node5" href="$coin_8h.html" title="coin.h" alt="" coords="242,379,299,405"/>
+<area shape="rect" id="node9" href="$connectfourobject_8h.html" title="connectfourobject.h" alt="" coords="469,155,604,181"/>
+<area shape="rect" id="node12" href="$game_8h.html" title="game.h" alt="" coords="535,229,600,256"/>
+<area shape="rect" id="node15" href="$player_8h.html" title="player.h" alt="" coords="418,304,485,331"/>
+</map>

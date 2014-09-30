@@ -1,0 +1,6 @@
+<map id="GameClient::GameClient" name="GameClient::GameClient">
+<area shape="rect" id="node2" href="$class_game_client.html#aac63bd682b0cfde980b042bf8145e883" title="called when connected to the server " alt="" coords="230,5,389,32"/>
+<area shape="rect" id="node3" href="$class_game_client.html#a5457bdb6b9a17067bbb67a2498ee395d" title="called when new data is available from the client " alt="" coords="228,56,391,83"/>
+<area shape="rect" id="node5" href="$class_game_client.html#a0a9f1d81df966a4c3955f6a95b056c0e" title="called when disconnected from the server " alt="" coords="221,107,397,133"/>
+<area shape="rect" id="node4" href="$class_game_client.html#a65b0e61165542bee701778b54f212afd" title="GameClient::refusedConnection" alt="" coords="445,56,653,83"/>
+</map>

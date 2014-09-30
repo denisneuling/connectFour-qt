@@ -1,7 +1,14 @@
 #ifndef CONNECTFOUROBJECT_H
 #define CONNECTFOUROBJECT_H
 
-//! base class for every connect four related class
+/*!
+ * \class ConnectFourObject
+ * \brief base class for every connect four related class
+ * \details base class for every connect four related class
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class ConnectFourObject
 {
 public:

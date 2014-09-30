@@ -14,6 +14,14 @@ namespace Ui {
 class MainWindow;
 }
 
+/*!
+ * \class MainWindow
+ * \brief main window class
+ * \details application's main window
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
@@ -30,7 +38,10 @@ private slots:
     void settingsWidgetHostButtonPressed(Settings settings);
     void settingsWidgetResultsButtonPressed();
     void toggleChatWidget();
-    // triggered after game is started, important for networkgames
+
+    /*!
+     * triggered after game is started, important for networkgames
+     */
     void gameStarted();
 
     void onSaveAction();

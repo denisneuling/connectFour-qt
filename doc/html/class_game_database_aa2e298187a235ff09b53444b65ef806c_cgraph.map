@@ -1,0 +1,4 @@
+<map id="GameDatabase::addGame" name="GameDatabase::addGame">
+<area shape="rect" id="node2" href="$class_player.html#ade0334ac0e87ac1c5e09ce78f2cafd83" title="Player::getName" alt="" coords="232,5,352,32"/>
+<area shape="rect" id="node3" href="$class_player.html#a60bab4053f47b075a4228b5237394711" title="Player::getCoin" alt="" coords="236,56,348,83"/>
+</map>

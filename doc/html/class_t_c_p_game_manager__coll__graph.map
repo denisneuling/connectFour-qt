@@ -1,0 +1,7 @@
+<map id="TCPGameManager" name="TCPGameManager">
+<area shape="rect" id="node2" href="$class_game_manager.html" title="Class that handles game states and instanciates renderer and board. " alt="" coords="209,203,316,229"/>
+<area shape="rect" id="node8" href="$class_game_over_screen.html" title="Class that handles game over screen. " alt="" coords="54,83,180,109"/>
+<area shape="rect" id="node4" href="$struct_settings.html" title="data holder between ui and game " alt="" coords="225,83,295,109"/>
+<area shape="rect" id="node5" href="$class_game_renderer.html" title="Handles OpenGL window inside main window;. " alt="" coords="319,83,429,109"/>
+<area shape="rect" id="node7" href="$class_player.html" title="player data holder " alt="" coords="455,83,512,109"/>
+</map>

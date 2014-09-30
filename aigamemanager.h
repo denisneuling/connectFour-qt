@@ -5,8 +5,14 @@
 #include "gamemanager.h"
 #include "minmax.h"
 
-//! ai specific gamemanager
-/*! AI specific gamemanger that handles the ai players turn */
+/*!
+ * \class AIGameManager
+ * \brief ai specific gamemanager
+ * \details AI specific gamemanger that handles the ai players turn
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class AIGameManager : public GameManager
 {
     Q_OBJECT
@@ -15,7 +21,9 @@ public:
 
     virtual void startGame(Settings settings);
 
-    //! Sets the starting player depending wether ai should start
+	/*!
+     * \brief Sets the starting player depending wether ai should start
+     */
     virtual void setStartingPlayer(Settings settings);
 signals:
 

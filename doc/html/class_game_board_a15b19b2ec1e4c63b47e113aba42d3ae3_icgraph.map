@@ -1,0 +1,5 @@
+<map id="GameBoard::getCoin" name="GameBoard::getCoin">
+<area shape="rect" id="node2" href="$class_game_board.html#a2ac14f3ff1d653e086136792fe0933d6" title="GameBoard::checkWinConditions" alt="" coords="197,5,416,32"/>
+<area shape="rect" id="node4" href="$class_game_board.html#ad533f495fa4f39c15e1164a1a5bb702e" title="GameBoard::serialize" alt="" coords="233,56,380,83"/>
+<area shape="rect" id="node3" href="$class_game_board.html#a72290b30d47b27d1a929150cd9d16305" title="GameBoard::checkGameConditions" alt="" coords="465,5,695,32"/>
+</map>

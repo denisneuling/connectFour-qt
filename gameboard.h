@@ -13,6 +13,14 @@
 #include "connectfourobject.h"
 #include "player.h"
 
+/*!
+ * \class GameBoard
+ * \brief game board class representing game board
+ * \details game board splitted up into columns and rows handling coins
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameBoard : public QObject, public ConnectFourObject
 {
     Q_OBJECT
@@ -23,19 +31,25 @@ public:
 
     virtual ~GameBoard();
 
-    //! add coin to the game board at the specific column
     /*!
-     \param column the column where the coin should be added
-     \param the coin to add
-    */
+     * add coin to the game board at the specific column
+     *
+     * \param column the column where the coin should be added
+     * \param the coin to add
+     */
     bool addCoin(int column, Coin coin);
 
     void removeCoin(int column);
 
-    //! check if the game is over
+    /*!
+     * check if the game is over
+     */
+
     Result checkGameConditions();
 
-    //! returns list of available columns
+    /*!
+     * returns list of available columns
+     */
     std::vector<int> getAvailableMoves();
 
     std::vector<std::shared_ptr<BoardColumn> > getCurrentBoard();

@@ -1,0 +1,6 @@
+<map id="GameManager::checkAndHandleWin" name="GameManager::checkAndHandleWin">
+<area shape="rect" id="node2" href="$class_game_manager.html#ac15bf5701604781f66047dc8c94f70a7" title="GameManager::mousePressEvent" alt="" coords="291,41,514,68"/>
+<area shape="rect" id="node3" href="$class_a_i_game_manager.html#a1dd46d003522dfad3572c0de445d1d20" title="AIGameManager::mousePress\lEvent" alt="" coords="563,5,765,46"/>
+<area shape="rect" id="node5" href="$class_game_manager.html#a4acbc34fa6c280d0f6d48ff867626ce2" title="GameManager::startGame" alt="" coords="576,71,752,97"/>
+<area shape="rect" id="node4" href="$class_a_i_game_manager.html#a00ceeb80c83e9b7951442ce695b9730f" title="AIGameManager::startGame" alt="" coords="813,12,1003,39"/>
+</map>

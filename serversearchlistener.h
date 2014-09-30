@@ -6,7 +6,11 @@
 #include <QUdpSocket>
 
 /*!
+ * \class ServerSearchListener
  * \brief The ServerSearchListener handles incoming serversearch requests
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
  */
 class ServerSearchListener : public QObject
 {

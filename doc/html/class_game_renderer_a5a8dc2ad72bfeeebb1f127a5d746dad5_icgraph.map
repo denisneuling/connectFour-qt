@@ -1,0 +1,13 @@
+<map id="GameRenderer::getGameBoardRenderer" name="GameRenderer::getGameBoardRenderer">
+<area shape="rect" id="node2" href="$class_game_manager.html#a7ecc3a14cd9e92f50729b37d1364953f" title="GameManager::update" alt="" coords="300,156,455,183"/>
+<area shape="rect" id="node5" href="$class_t_c_p_game_manager.html#a616b05b986023096f7475e32c70a059d" title="TCPGameManager::clientConnected" alt="" coords="545,265,781,292"/>
+<area shape="rect" id="node7" href="$class_game_manager.html#a6ec9d87c1a6366be0f5b2191b798a679" title="GameManager::setStarting\lPlayer" alt="" coords="288,90,467,131"/>
+<area shape="rect" id="node8" href="$class_t_c_p_game_manager.html#a6412d2d4a43e5ff353d410e810f60675" title="TCPGameManager::receivedData" alt="" coords="553,215,772,241"/>
+<area shape="rect" id="node9" href="$class_game_manager.html#a4d65975808a9ddce05814b0708b11268" title="GameManager::checkAndHandleWin" alt="" coords="259,25,496,52"/>
+<area shape="rect" id="node12" href="$class_t_c_p_game_manager.html#af76ec973ba1c3e7f58ac979fffccb85f" title="TCPGameManager::mousePress\lEvent" alt="" coords="270,258,485,299"/>
+<area shape="rect" id="node3" href="$class_a_i_game_manager.html#a00ceeb80c83e9b7951442ce695b9730f" title="AIGameManager::startGame" alt="" coords="1080,88,1269,115"/>
+<area shape="rect" id="node4" href="$class_game_manager.html#a4acbc34fa6c280d0f6d48ff867626ce2" title="GameManager::startGame" alt="" coords="843,71,1019,97"/>
+<area shape="rect" id="node6" href="$class_t_c_p_game_manager.html#a7d4415253458e80a05314f91a0879fd0" title="TCPGameManager::startGame" alt="" coords="829,240,1032,267"/>
+<area shape="rect" id="node10" href="$class_game_manager.html#ac15bf5701604781f66047dc8c94f70a7" title="GameManager::mousePressEvent" alt="" coords="551,12,774,39"/>
+<area shape="rect" id="node11" href="$class_a_i_game_manager.html#a1dd46d003522dfad3572c0de445d1d20" title="AIGameManager::mousePress\lEvent" alt="" coords="830,5,1031,46"/>
+</map>

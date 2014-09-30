@@ -1,0 +1,4 @@
+<map id="GameResults::showEvent" name="GameResults::showEvent">
+<area shape="rect" id="node2" href="$class_game_database.html#a216477b314b74b86d42c943b359ac33a" title="GameDatabase::getInstance" alt="" coords="229,5,419,32"/>
+<area shape="rect" id="node3" href="$class_game_database.html#acbcc841f220b5865046d19f8b0e814ed" title="GameDatabase::getGames returns all played games that are stored in the sql database. " alt="" coords="233,56,415,83"/>
+</map>

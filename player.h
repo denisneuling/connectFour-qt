@@ -4,6 +4,14 @@
 #include <QString>
 #include "coin.h"
 
+/*!
+ * \class Player
+ * \brief player data holder
+ * \details class representing a player
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class Player
 {
 public:

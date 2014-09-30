@@ -1,0 +1,4 @@
+<map id="Helper::serverSearchRequest" name="Helper::serverSearchRequest">
+<area shape="rect" id="node2" href="$class_server_search_listener.html#a21a16b4da531df945508189dc7d4d704" title="processServerSearchRequest called when new data is available on the socket handles response on the re..." alt="" coords="249,5,453,46"/>
+<area shape="rect" id="node3" href="$class_server_search_listener.html#aa3ee0bdea4c0c4151c3882644e42eb5d" title="ServerSearchListener\l::ServerSearchListener" alt="" coords="501,5,656,46"/>
+</map>

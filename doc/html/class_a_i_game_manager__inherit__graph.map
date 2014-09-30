@@ -1,0 +1,3 @@
+<map id="AIGameManager" name="AIGameManager">
+<area shape="rect" id="node2" href="$class_game_manager.html" title="Class that handles game states and instanciates renderer and board. " alt="" coords="12,80,119,107"/>
+</map>

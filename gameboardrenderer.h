@@ -9,7 +9,14 @@
 #include "gameboard.h"
 #include "helper.h"
 
-//! Class that is responsible for rendering the gameboard
+/*!
+ * \class GameBoardRenderer
+ * \brief Class that is responsible for rendering the gameboard
+ * \details renders the game board grid
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class GameBoardRenderer : public ConnectFourRenderObject
 {
 public:

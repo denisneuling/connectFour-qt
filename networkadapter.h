@@ -4,8 +4,14 @@
 #include <QObject>
 #include <QTcpSocket>
 
-
-//! base class for a network connection (server and client)
+/*!
+ * \class NetworkAdapter
+ * \brief NetworkAdapter interface
+ * \details base class for a network connection (server and client)
+ *
+ * \author Roland Luckenthuber
+ * \author Denis Neuling
+ */
 class NetworkAdapter : public QObject
 {
     Q_OBJECT
@@ -18,9 +24,14 @@ public:
 
     bool IsServer();
 signals:
-    //! triggered after a new connection has been established either by server or client
+    /*!
+     * triggered after a new connection has been established either by server or client
+     */
     void connectionEstablished();
-    //! triggered after new data is available on the socket
+
+    /*!
+     * triggered after new data is available on the socket
+     */
     void dataReceived(const QString& data);
 
 protected:

@@ -1,0 +1,4 @@
+<map id="GameManager" name="GameManager">
+<area shape="rect" id="node3" href="$class_a_i_game_manager.html" title="ai specific gamemanager " alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$class_t_c_p_game_manager.html" title="Gamemanager that handles Network game related tasks. " alt="" coords="150,155,284,181"/>
+</map>

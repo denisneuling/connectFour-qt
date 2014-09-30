@@ -1,0 +1,22 @@
+<map id="renderobject.h" name="renderobject.h">
+<area shape="rect" id="node2" href="$connectfourrenderobject_8h.html" title="connectfourrenderobject.h" alt="" coords="426,80,597,107"/>
+<area shape="rect" id="node20" href="$gamecoinrenderer_8h.html" title="gamecoinrenderer.h" alt="" coords="568,155,703,181"/>
+<area shape="rect" id="node3" href="$gameboardrenderer_8h.html" title="gameboardrenderer.h" alt="" coords="400,155,544,181"/>
+<area shape="rect" id="node4" href="$gamerenderer_8h.html" title="gamerenderer.h" alt="" coords="500,229,611,256"/>
+<area shape="rect" id="node19" href="$gameboardrenderer_8cpp.html" title="gameboardrenderer.cpp" alt="" coords="317,229,475,256"/>
+<area shape="rect" id="node5" href="$gamemanager_8h.html" title="gamemanager.h" alt="" coords="425,304,540,331"/>
+<area shape="rect" id="node18" href="$gamerenderer_8cpp.html" title="gamerenderer.cpp" alt="" coords="565,304,691,331"/>
+<area shape="rect" id="node6" href="$aigamemanager_8h.html" title="aigamemanager.h" alt="" coords="5,453,131,480"/>
+<area shape="rect" id="node9" href="$minmax_8h.html" title="minmax.h" alt="" coords="129,379,207,405"/>
+<area shape="rect" id="node10" href="$tcpgamemanager_8h.html" title="tcpgamemanager.h" alt="" coords="288,379,421,405"/>
+<area shape="rect" id="node13" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="391,528,496,555"/>
+<area shape="rect" id="node16" href="$gamemanager_8cpp.html" title="gamemanager.cpp" alt="" coords="649,379,777,405"/>
+<area shape="rect" id="node17" href="$settingswidget_8cpp.html" title="settingswidget.cpp" alt="" coords="801,379,931,405"/>
+<area shape="rect" id="node7" href="$aigamemanager_8cpp.html" title="aigamemanager.cpp" alt="" coords="43,528,181,555"/>
+<area shape="rect" id="node8" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="159,603,277,629"/>
+<area shape="rect" id="node11" href="$chatwidget_8h.html" title="chatwidget.h" alt="" coords="307,453,403,480"/>
+<area shape="rect" id="node12" href="$chatwidget_8cpp.html" title="chatwidget.cpp" alt="" coords="257,528,367,555"/>
+<area shape="rect" id="node15" href="$tcpgamemanager_8cpp.html" title="tcpgamemanager.cpp" alt="" coords="427,453,573,480"/>
+<area shape="rect" id="node14" href="$main_8cpp.html" title="main.cpp" alt="" coords="407,603,480,629"/>
+<area shape="rect" id="node21" href="$gamecoinrenderer_8cpp.html" title="gamecoinrenderer.cpp" alt="" coords="637,229,787,256"/>
+</map>

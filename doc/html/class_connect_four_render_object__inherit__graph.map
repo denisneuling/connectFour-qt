@@ -1,0 +1,6 @@
+<map id="ConnectFourRenderObject" name="ConnectFourRenderObject">
+<area shape="rect" id="node4" href="$class_game_board_renderer.html" title="Class that is responsible for rendering the gameboard. " alt="" coords="5,155,149,181"/>
+<area shape="rect" id="node5" href="$class_game_coin_renderer.html" title="Class that is responsible for rendering the coins added to the board. " alt="" coords="174,155,311,181"/>
+<area shape="rect" id="node2" href="$class_connect_four_object.html" title="base class for every connect four related class " alt="" coords="22,5,156,32"/>
+<area shape="rect" id="node3" href="$class_render_object.html" title="iface for objects which are able to be rendered " alt="" coords="181,5,283,32"/>
+</map>
