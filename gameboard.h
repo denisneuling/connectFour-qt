@@ -18,7 +18,7 @@
  * \brief game board class representing game board
  * \details game board splitted up into columns and rows handling coins
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameBoard : public QObject, public ConnectFourObject

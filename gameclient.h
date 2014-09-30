@@ -11,7 +11,7 @@
  * \brief Class that is responsible for opening a tcp socket connection to the host
  * \details Class handles a tcp socket connection to the host
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameClient : public NetworkAdapter

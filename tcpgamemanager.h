@@ -12,7 +12,7 @@
  * \brief Gamemanager that handles Network game related tasks
  * \details Gamemanager that handles Network game related tasks
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class TCPGameManager : public GameManager

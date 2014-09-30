@@ -12,7 +12,7 @@
  * \brief base class for each renderable connect four object
  * \details base class for each renderable connect four object
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class ConnectFourRenderObject : public ConnectFourObject, public RenderObject

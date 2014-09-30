@@ -11,7 +11,7 @@
  * \brief Class that is responsible for playing audio sequences
  * \details Class that is responsible for playing audio sequences 
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameAudioManager : public QObject

@@ -19,7 +19,7 @@
  * \brief Class that handles game states and instanciates renderer and board
  * \details Class that handles game states and instanciates renderer and board
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameManager : public QWidget

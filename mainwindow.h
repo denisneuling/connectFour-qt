@@ -19,7 +19,7 @@ class MainWindow;
  * \brief main window class
  * \details application's main window
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class MainWindow : public QMainWindow

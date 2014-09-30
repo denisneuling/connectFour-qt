@@ -20,7 +20,7 @@ using namespace std;
  * \brief Negamax algorithm
  * \details Negamax algorithm
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  *
  * \link http://en.wikipedia.org/wiki/Negamax

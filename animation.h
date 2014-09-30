@@ -10,7 +10,7 @@
  * \brief handles animation state
  * \details Struct that handles animation state
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef struct Animation

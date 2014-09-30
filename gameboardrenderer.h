@@ -14,7 +14,7 @@
  * \brief Class that is responsible for rendering the gameboard
  * \details renders the game board grid
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameBoardRenderer : public ConnectFourRenderObject

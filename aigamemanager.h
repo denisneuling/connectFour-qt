@@ -10,7 +10,7 @@
  * \brief ai specific gamemanager
  * \details AI specific gamemanger that handles the ai players turn
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class AIGameManager : public GameManager

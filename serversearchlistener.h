@@ -9,7 +9,7 @@
  * \class ServerSearchListener
  * \brief The ServerSearchListener handles incoming serversearch requests
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class ServerSearchListener : public QObject

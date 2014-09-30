@@ -6,7 +6,7 @@
  * \brief base class for every connect four related class
  * \details base class for every connect four related class
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class ConnectFourObject

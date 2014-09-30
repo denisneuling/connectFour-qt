@@ -5,7 +5,7 @@
  * \brief enum representing a cell at the game board
  * \details enum representing a cell at the game board
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef enum Coin

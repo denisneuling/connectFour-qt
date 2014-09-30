@@ -12,7 +12,7 @@ class GameResults;
  * \brief show previous games
  * \details class that shows previous games
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameResults : public QWidget

@@ -14,7 +14,7 @@
  * \brief singleton class that manages the game result database
  * \details singleton class that manages the game result database
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameDatabase : public QObject

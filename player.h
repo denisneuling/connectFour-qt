@@ -9,7 +9,7 @@
  * \brief player data holder
  * \details class representing a player
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class Player

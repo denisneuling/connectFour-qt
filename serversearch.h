@@ -16,7 +16,7 @@ class ServerSearch;
  * \class ServerSearch
  * \brief The ServerSearch class handles requesting and rendering of a server list in the local network
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class ServerSearch : public QWidget

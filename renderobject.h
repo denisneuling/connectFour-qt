@@ -6,7 +6,7 @@
  * \brief iface for objects which are able to be rendered
  * \details abstract class for each renderable object
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class RenderObject

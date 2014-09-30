@@ -12,7 +12,7 @@ class ChatWidget;
  * \details class representing a chat widget enabling 
  *		the user to communicate with its opponent
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class ChatWidget : public QWidget

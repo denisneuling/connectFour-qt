@@ -7,7 +7,7 @@
  * \brief some design configuration capabilities...
  * \details some design configuration capabilities...
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef enum Design
@@ -21,7 +21,7 @@ typedef enum Design
  * \brief defines the strength of the artificial intelligence engine
  * \details defines the strength of the artificial intelligence engine
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef enum AIStrength
@@ -35,7 +35,7 @@ typedef enum AIStrength
  * \brief data holder between ui and game
  * \details data holder between ui and game
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef struct Settings

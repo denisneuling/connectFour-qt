@@ -13,7 +13,7 @@
  * \brief Class that handles server client connection
  * \details Class that handles server client connection
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameServer : public NetworkAdapter

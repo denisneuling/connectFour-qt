@@ -9,7 +9,7 @@
  * \brief NetworkAdapter interface
  * \details base class for a network connection (server and client)
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class NetworkAdapter : public QObject

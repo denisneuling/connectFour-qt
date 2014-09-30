@@ -16,7 +16,7 @@
  * \brief Class that is responsible for rendering the coins added to the board
  * \details Class that is responsible for rendering the coins added to the board
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameCoinRenderer : public ConnectFourRenderObject

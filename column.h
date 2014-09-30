@@ -8,7 +8,7 @@
  * \brief column for the game board
  * \details column placed at the the game board
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class BoardColumn

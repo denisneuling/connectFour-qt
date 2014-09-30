@@ -12,7 +12,7 @@ class GameOverScreen;
  * \brief Class that handles game over screen
  * \details Class that handles game over screen
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class GameOverScreen : public QWidget

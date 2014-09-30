@@ -13,7 +13,7 @@
  * \brief Helper class for Connect Four
  * \details Helper class for Connect Four
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class Helper

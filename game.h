@@ -9,7 +9,7 @@
  * \brief result enum
  * \details result enum
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef enum Result
@@ -24,7 +24,7 @@ typedef enum Result
  * \brief data holder for game results
  * \details data holder for game results
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 typedef struct Game

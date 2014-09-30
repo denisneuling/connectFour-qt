@@ -13,7 +13,7 @@ class SettingsWidget;
  * \brief widget for settings
  * \details widget for settings
  *
- * \author Roland Luckenthuber
+ * \author Roland Luckenhuber
  * \author Denis Neuling
  */
 class SettingsWidget : public QWidget
