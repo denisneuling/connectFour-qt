@@ -1,0 +1,71 @@
+\hypertarget{class_game_audio_manager}{\section{Game\-Audio\-Manager Class Reference}
+\label{class_game_audio_manager}\index{Game\-Audio\-Manager@{Game\-Audio\-Manager}}
+}
+
+
+Singleton Class that handles audio loading and playback.  
+
+
+
+
+{\ttfamily \#include $<$gameaudiomanager.\-h$>$}
+
+Inheritance diagram for Game\-Audio\-Manager\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_game_audio_manager}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_game_audio_manager_ace62a41952c9c84d96ff604bb1170c44}{add\-Audio} (Q\-String name, std\-::shared\-\_\-ptr$<$ Q\-Sound $>$ sound)
+\begin{DoxyCompactList}\small\item\em adds audio \end{DoxyCompactList}\item 
+\hypertarget{class_game_audio_manager_a92a40349d9d48bdd0f9f8599db854cba}{void \hyperlink{class_game_audio_manager_a92a40349d9d48bdd0f9f8599db854cba}{play\-Audio} (Q\-String name)}\label{class_game_audio_manager_a92a40349d9d48bdd0f9f8599db854cba}
+
+\begin{DoxyCompactList}\small\item\em plays the audio file \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_game_audio_manager_ac7c815f232bdf6fc59e9c79ea1379013}{static \hyperlink{class_game_audio_manager}{Game\-Audio\-Manager} \& {\bfseries get\-Instance} ()}\label{class_game_audio_manager_ac7c815f232bdf6fc59e9c79ea1379013}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Singleton Class that handles audio loading and playback. 
+
+Definition at line 10 of file gameaudiomanager.\-h.
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_game_audio_manager_ace62a41952c9c84d96ff604bb1170c44}{\index{Game\-Audio\-Manager@{Game\-Audio\-Manager}!add\-Audio@{add\-Audio}}
+\index{add\-Audio@{add\-Audio}!GameAudioManager@{Game\-Audio\-Manager}}
+\subsubsection[{add\-Audio}]{\setlength{\rightskip}{0pt plus 5cm}void Game\-Audio\-Manager\-::add\-Audio (
+\begin{DoxyParamCaption}
+\item[{Q\-String}]{name, }
+\item[{std\-::shared\-\_\-ptr$<$ Q\-Sound $>$}]{sound}
+\end{DoxyParamCaption}
+)}}\label{class_game_audio_manager_ace62a41952c9c84d96ff604bb1170c44}
+
+
+adds audio 
+
+add\-Audio to the manager. sounds were released after execution 
+\begin{DoxyParams}{Parameters}
+{\em name} & the identifier of the sound \\
+\hline
+{\em sound} & the audio file itself \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 8 of file gameaudiomanager.\-cpp.
+
+
+
+The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+gameaudiomanager.\-h\item 
+gameaudiomanager.\-cpp\end{DoxyCompactItemize}

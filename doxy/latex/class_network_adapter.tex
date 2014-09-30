@@ -1,0 +1,70 @@
+\hypertarget{class_network_adapter}{\section{Network\-Adapter Class Reference}
+\label{class_network_adapter}\index{Network\-Adapter@{Network\-Adapter}}
+}
+
+
+base class for a network connection (server and client)  
+
+
+
+
+{\ttfamily \#include $<$networkadapter.\-h$>$}
+
+Inheritance diagram for Network\-Adapter\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=3.000000cm]{class_network_adapter}
+\end{center}
+\end{figure}
+\subsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_network_adapter_a2da2230a1cdf125105537d7a5b143bd0}{void \hyperlink{class_network_adapter_a2da2230a1cdf125105537d7a5b143bd0}{connection\-Established} ()}\label{class_network_adapter_a2da2230a1cdf125105537d7a5b143bd0}
+
+\begin{DoxyCompactList}\small\item\em triggered after a new connection has been established either by server or client \end{DoxyCompactList}\item 
+\hypertarget{class_network_adapter_ac2e6cce84f774b166dfda66e98ee655e}{void \hyperlink{class_network_adapter_ac2e6cce84f774b166dfda66e98ee655e}{data\-Received} (const Q\-String \&data)}\label{class_network_adapter_ac2e6cce84f774b166dfda66e98ee655e}
+
+\begin{DoxyCompactList}\small\item\em triggered after new data is available on the socket \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_network_adapter_a06f7164599740e840ef4663558019319}{{\bfseries Network\-Adapter} (Q\-Object $\ast$parent=0)}\label{class_network_adapter_a06f7164599740e840ef4663558019319}
+
+\item 
+\hypertarget{class_network_adapter_a5bfaa6d0344e0026418c99a27548a332}{virtual void {\bfseries init} ()=0}\label{class_network_adapter_a5bfaa6d0344e0026418c99a27548a332}
+
+\item 
+\hypertarget{class_network_adapter_a304921c7d4e599031608a9a9217c900f}{virtual void {\bfseries send} (Q\-String data)=0}\label{class_network_adapter_a304921c7d4e599031608a9a9217c900f}
+
+\item 
+\hypertarget{class_network_adapter_a955b0bf900e7eca5051c203f86898538}{bool {\bfseries is\-Connected} ()}\label{class_network_adapter_a955b0bf900e7eca5051c203f86898538}
+
+\item 
+\hypertarget{class_network_adapter_a37549ba9c99061a8c5407299b380139d}{bool {\bfseries Is\-Server} ()}\label{class_network_adapter_a37549ba9c99061a8c5407299b380139d}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_network_adapter_a8517d41d27fad01cd65a6342b562f7e0}{bool {\bfseries m\-\_\-\-Is\-Server}}\label{class_network_adapter_a8517d41d27fad01cd65a6342b562f7e0}
+
+\item 
+\hypertarget{class_network_adapter_aac7a55e1d924965afcb829f9c9f3da15}{bool {\bfseries m\-\_\-\-Is\-Connected}}\label{class_network_adapter_aac7a55e1d924965afcb829f9c9f3da15}
+
+\item 
+\hypertarget{class_network_adapter_a805305b01405a2890d9bbb784d44bde1}{Q\-Tcp\-Socket $\ast$ {\bfseries m\-\_\-p\-Socket}}\label{class_network_adapter_a805305b01405a2890d9bbb784d44bde1}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+base class for a network connection (server and client) 
+
+Definition at line 9 of file networkadapter.\-h.
+
+
+
+The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+networkadapter.\-h\item 
+networkadapter.\-cpp\end{DoxyCompactItemize}

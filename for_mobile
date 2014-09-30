@@ -1,0 +1,1 @@
+Um Vier Gewinnt auf mobilen plattformen zum laufen zu bekommen, müssen alle OpenGL API befehle durch OpenGLES befehle ersetzt werden.

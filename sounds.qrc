@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>coin_drop.wav</file>
+        <file>win_red.wav</file>
+        <file>win_yellow.wav</file>
+        <file>illegal_move.wav</file>
+        <file>on_connect.wav</file>
+    </qresource>
+</RCC>

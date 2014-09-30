@@ -1,0 +1,83 @@
+\hypertarget{class_t_c_p_game_manager}{\section{T\-C\-P\-Game\-Manager Class Reference}
+\label{class_t_c_p_game_manager}\index{T\-C\-P\-Game\-Manager@{T\-C\-P\-Game\-Manager}}
+}
+
+
+Gamemanager that handles Network game related tasks.  
+
+
+
+
+{\ttfamily \#include $<$tcpgamemanager.\-h$>$}
+
+Inheritance diagram for T\-C\-P\-Game\-Manager\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=3.000000cm]{class_t_c_p_game_manager}
+\end{center}
+\end{figure}
+\subsection*{Public Slots}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_game_manager_a616b05b986023096f7475e32c70a059d}{void {\bfseries client\-Connected} ()}\label{class_t_c_p_game_manager_a616b05b986023096f7475e32c70a059d}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_a65421be056b0c53a6deed1bd405ffc6b}{void {\bfseries connection\-Established} ()}\label{class_t_c_p_game_manager_a65421be056b0c53a6deed1bd405ffc6b}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_a6412d2d4a43e5ff353d410e810f60675}{void {\bfseries received\-Data} (const Q\-String \&data)}\label{class_t_c_p_game_manager_a6412d2d4a43e5ff353d410e810f60675}
+
+\end{DoxyCompactItemize}
+\subsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_game_manager_ab3a7b1cacfd6ca1704d683f5bc794d98}{void \hyperlink{class_t_c_p_game_manager_ab3a7b1cacfd6ca1704d683f5bc794d98}{chat\-Message\-Received} (Q\-String message)}\label{class_t_c_p_game_manager_ab3a7b1cacfd6ca1704d683f5bc794d98}
+
+\begin{DoxyCompactList}\small\item\em emitted when a new chat message has been received \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_game_manager_a0a83c4efd02332883aaa7935b480ec2c}{{\bfseries T\-C\-P\-Game\-Manager} (Q\-Widget $\ast$parent)}\label{class_t_c_p_game_manager_a0a83c4efd02332883aaa7935b480ec2c}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_a7d4415253458e80a05314f91a0879fd0}{void \hyperlink{class_t_c_p_game_manager_a7d4415253458e80a05314f91a0879fd0}{start\-Game} (\hyperlink{struct_settings}{Settings} settings)}\label{class_t_c_p_game_manager_a7d4415253458e80a05314f91a0879fd0}
+
+\begin{DoxyCompactList}\small\item\em instanciates renderer and gameboard \end{DoxyCompactList}\item 
+\hypertarget{class_t_c_p_game_manager_a518a1a16b52b9ede6474749f59f203b1}{void {\bfseries send\-Message} (Q\-String string)}\label{class_t_c_p_game_manager_a518a1a16b52b9ede6474749f59f203b1}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_game_manager_af76ec973ba1c3e7f58ac979fffccb85f}{void {\bfseries mouse\-Press\-Event} (Q\-Mouse\-Event $\ast$event)}\label{class_t_c_p_game_manager_af76ec973ba1c3e7f58ac979fffccb85f}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_game_manager_aabea99b1b4ed457eff4a5f0db194644b}{bool {\bfseries m\-\_\-\-Network\-Initialized}}\label{class_t_c_p_game_manager_aabea99b1b4ed457eff4a5f0db194644b}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_a762b0b3ae60c0076165843b78d011927}{bool {\bfseries m\-\_\-\-Server\-Turn}}\label{class_t_c_p_game_manager_a762b0b3ae60c0076165843b78d011927}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_ad973154be37079b7510d4ca3d66d47fb}{bool {\bfseries m\-\_\-\-Sent\-But\-Not\-Received}}\label{class_t_c_p_game_manager_ad973154be37079b7510d4ca3d66d47fb}
+
+\item 
+\hypertarget{class_t_c_p_game_manager_a15acfb9058bd60dbaad4a9561f643da3}{std\-::shared\-\_\-ptr\\*
+$<$ \hyperlink{class_server_search_listener}{Server\-Search\-Listener} $>$ {\bfseries m\-\_\-p\-Server\-Search\-Listener}}\label{class_t_c_p_game_manager_a15acfb9058bd60dbaad4a9561f643da3}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Gamemanager that handles Network game related tasks. 
+
+Definition at line 11 of file tcpgamemanager.\-h.
+
+
+
+The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+tcpgamemanager.\-h\item 
+tcpgamemanager.\-cpp\end{DoxyCompactItemize}

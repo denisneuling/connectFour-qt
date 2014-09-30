@@ -1,0 +1,11 @@
+digraph "GameManager::GameManager"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GameManager::GameManager",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GameAudioManager::getInstance",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_audio_manager.html#ac7c815f232bdf6fc59e9c79ea1379013"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="GameAudioManager::addAudio",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_audio_manager.html#a6b35345ef179220cc75bf4ba3d68cea8",tooltip="adds audio "];
+}
